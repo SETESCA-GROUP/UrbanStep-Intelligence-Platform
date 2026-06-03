@@ -1,1 +1,241 @@
-date,country,channel,sku,revenue,cost,units
+TransactionID,Fecha,Año,Mes,País,Canal,SKU,Producto,Categoría,Comercial,Unidades,PrecioUnitario,CosteUnitario,ImporteVenta,CosteTotal,MargenBruto,MargenPct
+2025-0001,2025-01-22,2025,1,España,Ecommerce,US-003,Urban Business,Formal,Anna Keller,94,127.22,71.2,11958.68,6692.8,5265.88,44.03
+2025-0002,2025-01-19,2025,1,Alemania,Ecommerce,US-007,Urban Premium,Premium,Laura Martín,38,151.75,88.6,5766.5,3366.8,2399.7,41.61
+2025-0003,2025-01-01,2025,1,Italia,Retail Partners,US-003,Urban Business,Formal,Marco Rossi,28,116.13,66.89,3251.64,1872.92,1378.72,42.4
+2025-0004,2025-01-16,2025,1,Alemania,Tiendas Propias,US-008,Urban Flex,Casual,Marco Rossi,20,96.73,50.26,1934.6,1005.2,929.4,48.04
+2025-0005,2025-01-04,2025,1,Francia,Ecommerce,US-004,Urban Trek,Outdoor,Anna Keller,22,136.66,89.55,3006.52,1970.1,1036.42,34.47
+2025-0006,2025-01-05,2025,1,Francia,Retail Partners,US-005,Urban Kids,Infantil,Anna Keller,52,64.39,29.13,3348.28,1514.76,1833.52,54.76
+2025-0007,2025-01-27,2025,1,España,Amazon,US-002,Urban Runner,Running,Marco Rossi,54,107.49,54.76,5804.46,2957.04,2847.42,49.06
+2025-0008,2025-01-06,2025,1,Alemania,Retail Partners,US-006,Urban Eco,Sostenible,Anna Keller,90,106.87,60.62,9618.3,5455.8,4162.5,43.28
+2025-0009,2025-01-15,2025,1,Italia,Tiendas Propias,US-005,Urban Kids,Infantil,Sophie Martin,29,57.65,31.1,1671.85,901.9,769.95,46.05
+2025-0010,2025-01-15,2025,1,Alemania,Ecommerce,US-005,Urban Kids,Infantil,Carlos Ruiz,72,56.22,30.73,4047.84,2212.56,1835.28,45.34
+2025-0011,2025-01-25,2025,1,Italia,Retail Partners,US-006,Urban Eco,Sostenible,Laura Martín,39,104.13,58.14,4061.07,2267.46,1793.61,44.17
+2025-0012,2025-01-02,2025,1,España,Ecommerce,US-002,Urban Runner,Running,Carlos Ruiz,102,97.74,52.15,9969.48,5319.3,4650.18,46.64
+2025-0013,2025-01-23,2025,1,España,Amazon,US-002,Urban Runner,Running,Laura Martín,82,100.18,50.47,8214.76,4138.54,4076.22,49.62
+2025-0014,2025-01-19,2025,1,Alemania,Tiendas Propias,US-001,Urban Classic,Casual,Laura Martín,38,79.32,44.65,3014.16,1696.7,1317.46,43.71
+2025-0015,2025-01-15,2025,1,Italia,Amazon,US-003,Urban Business,Formal,Laura Martín,59,117.74,64.98,6946.66,3833.82,3112.84,44.81
+2025-0016,2025-01-17,2025,1,Alemania,Ecommerce,US-003,Urban Business,Formal,Marco Rossi,62,122.85,69.81,7616.7,4328.22,3288.48,43.17
+2025-0017,2025-01-24,2025,1,España,Amazon,US-004,Urban Trek,Outdoor,Carlos Ruiz,56,127.13,81.96,7119.28,4589.76,2529.52,35.53
+2025-0018,2025-01-27,2025,1,Alemania,Ecommerce,US-007,Urban Premium,Premium,Anna Keller,78,148.19,85.49,11558.82,6668.22,4890.6,42.31
+2025-0019,2025-01-20,2025,1,Francia,Ecommerce,US-003,Urban Business,Formal,Marco Rossi,78,119.49,71.98,9320.22,5614.44,3705.78,39.76
+2025-0020,2025-01-15,2025,1,Francia,Retail Partners,US-004,Urban Trek,Outdoor,Marco Rossi,108,135.41,81.83,14624.28,8837.64,5786.64,39.57
+2025-0021,2025-02-12,2025,2,España,Amazon,US-007,Urban Premium,Premium,Sophie Martin,80,155.31,89.6,12424.8,7168.0,5256.8,42.31
+2025-0022,2025-02-21,2025,2,España,Amazon,US-004,Urban Trek,Outdoor,Sophie Martin,66,124.33,81.38,8205.78,5371.08,2834.7,34.55
+2025-0023,2025-02-22,2025,2,Italia,Tiendas Propias,US-002,Urban Runner,Running,Anna Keller,23,102.08,49.44,2347.84,1137.12,1210.72,51.57
+2025-0024,2025-02-20,2025,2,Alemania,Amazon,US-001,Urban Classic,Casual,Laura Martín,47,75.47,42.16,3547.09,1981.52,1565.57,44.14
+2025-0025,2025-02-02,2025,2,España,Amazon,US-008,Urban Flex,Casual,Sophie Martin,75,92.55,47.92,6941.25,3594.0,3347.25,48.22
+2025-0026,2025-02-16,2025,2,España,Amazon,US-003,Urban Business,Formal,Anna Keller,95,113.71,65.72,10802.45,6243.4,4559.05,42.2
+2025-0027,2025-02-25,2025,2,Francia,Amazon,US-007,Urban Premium,Premium,Sophie Martin,20,145.82,93.85,2916.4,1877.0,1039.4,35.64
+2025-0028,2025-02-12,2025,2,Alemania,Ecommerce,US-007,Urban Premium,Premium,Sophie Martin,47,158.21,87.94,7435.87,4133.18,3302.69,44.42
+2025-0029,2025-02-03,2025,2,España,Tiendas Propias,US-004,Urban Trek,Outdoor,Carlos Ruiz,113,126.91,91.27,14340.83,10313.51,4027.32,28.08
+2025-0030,2025-02-22,2025,2,España,Retail Partners,US-006,Urban Eco,Sostenible,Carlos Ruiz,89,112.45,62.13,10008.05,5529.57,4478.48,44.75
+2025-0031,2025-02-21,2025,2,Italia,Ecommerce,US-003,Urban Business,Formal,Anna Keller,49,127.75,67.81,6259.75,3322.69,2937.06,46.92
+2025-0032,2025-02-11,2025,2,Italia,Tiendas Propias,US-002,Urban Runner,Running,Anna Keller,88,103.13,50.8,9075.44,4470.4,4605.04,50.74
+2025-0033,2025-02-20,2025,2,España,Retail Partners,US-006,Urban Eco,Sostenible,Anna Keller,69,104.21,56.99,7190.49,3932.31,3258.18,45.31
+2025-0034,2025-02-28,2025,2,Francia,Amazon,US-006,Urban Eco,Sostenible,Laura Martín,67,118.78,55.36,7958.26,3709.12,4249.14,53.39
+2025-0035,2025-02-10,2025,2,España,Retail Partners,US-005,Urban Kids,Infantil,Sophie Martin,99,59.65,31.06,5905.35,3074.94,2830.41,47.93
+2025-0036,2025-02-27,2025,2,Francia,Ecommerce,US-004,Urban Trek,Outdoor,Sophie Martin,71,128.82,83.57,9146.22,5933.47,3212.75,35.13
+2025-0037,2025-02-28,2025,2,España,Tiendas Propias,US-008,Urban Flex,Casual,Sophie Martin,38,91.67,50.39,3483.46,1914.82,1568.64,45.03
+2025-0038,2025-02-17,2025,2,España,Retail Partners,US-002,Urban Runner,Running,Carlos Ruiz,98,102.65,54.02,10059.7,5293.96,4765.74,47.37
+2025-0039,2025-02-27,2025,2,Francia,Tiendas Propias,US-004,Urban Trek,Outdoor,Sophie Martin,84,134.28,84.44,11279.52,7092.96,4186.56,37.12
+2025-0040,2025-02-13,2025,2,Francia,Tiendas Propias,US-007,Urban Premium,Premium,Laura Martín,76,150.56,92.6,11442.56,7037.6,4404.96,38.5
+2025-0041,2025-03-14,2025,3,Italia,Ecommerce,US-001,Urban Classic,Casual,Laura Martín,22,77.36,40.66,1701.92,894.52,807.4,47.44
+2025-0042,2025-03-22,2025,3,Alemania,Tiendas Propias,US-006,Urban Eco,Sostenible,Marco Rossi,31,114.94,60.08,3563.14,1862.48,1700.66,47.73
+2025-0043,2025-03-26,2025,3,Italia,Tiendas Propias,US-008,Urban Flex,Casual,Carlos Ruiz,91,87.99,49.65,8007.09,4518.15,3488.94,43.57
+2025-0044,2025-03-12,2025,3,Francia,Ecommerce,US-008,Urban Flex,Casual,Marco Rossi,52,88.51,48.86,4602.52,2540.72,2061.8,44.8
+2025-0045,2025-03-28,2025,3,Alemania,Tiendas Propias,US-005,Urban Kids,Infantil,Laura Martín,45,57.73,28.87,2597.85,1299.15,1298.7,49.99
+2025-0046,2025-03-14,2025,3,España,Retail Partners,US-002,Urban Runner,Running,Sophie Martin,103,106.92,54.43,11012.76,5606.29,5406.47,49.09
+2025-0047,2025-03-05,2025,3,Francia,Ecommerce,US-006,Urban Eco,Sostenible,Carlos Ruiz,21,105.04,55.22,2205.84,1159.62,1046.22,47.43
+2025-0048,2025-03-05,2025,3,Alemania,Tiendas Propias,US-002,Urban Runner,Running,Laura Martín,92,101.4,49.93,9328.8,4593.56,4735.24,50.76
+2025-0049,2025-03-06,2025,3,Italia,Retail Partners,US-005,Urban Kids,Infantil,Laura Martín,21,58.73,30.58,1233.33,642.18,591.15,47.93
+2025-0050,2025-03-10,2025,3,Italia,Amazon,US-003,Urban Business,Formal,Marco Rossi,50,125.17,66.5,6258.5,3325.0,2933.5,46.87
+2025-0051,2025-03-22,2025,3,Italia,Ecommerce,US-003,Urban Business,Formal,Sophie Martin,41,126.97,73.06,5205.77,2995.46,2210.31,42.46
+2025-0052,2025-03-07,2025,3,Francia,Retail Partners,US-003,Urban Business,Formal,Marco Rossi,41,121.32,68.08,4974.12,2791.28,2182.84,43.88
+2025-0053,2025-03-02,2025,3,Alemania,Amazon,US-008,Urban Flex,Casual,Laura Martín,53,92.94,47.69,4925.82,2527.57,2398.25,48.69
+2025-0054,2025-03-21,2025,3,España,Amazon,US-001,Urban Classic,Casual,Carlos Ruiz,37,85.83,42.69,3175.71,1579.53,1596.18,50.26
+2025-0055,2025-03-26,2025,3,Alemania,Amazon,US-008,Urban Flex,Casual,Sophie Martin,33,92.7,46.9,3059.1,1547.7,1511.4,49.41
+2025-0056,2025-03-10,2025,3,Francia,Ecommerce,US-006,Urban Eco,Sostenible,Carlos Ruiz,42,115.2,56.45,4838.4,2370.9,2467.5,51.0
+2025-0057,2025-03-17,2025,3,Italia,Tiendas Propias,US-004,Urban Trek,Outdoor,Anna Keller,54,136.38,84.48,7364.52,4561.92,2802.6,38.06
+2025-0058,2025-03-02,2025,3,Alemania,Tiendas Propias,US-001,Urban Classic,Casual,Anna Keller,57,86.0,42.22,4902.0,2406.54,2495.46,50.91
+2025-0059,2025-03-02,2025,3,España,Amazon,US-003,Urban Business,Formal,Sophie Martin,118,129.98,69.61,15337.64,8213.98,7123.66,46.45
+2025-0060,2025-03-10,2025,3,Italia,Tiendas Propias,US-005,Urban Kids,Infantil,Carlos Ruiz,117,61.7,31.31,7218.9,3663.27,3555.63,49.25
+2025-0061,2025-04-09,2025,4,Francia,Retail Partners,US-007,Urban Premium,Premium,Marco Rossi,80,141.77,94.61,11341.6,7568.8,3772.8,33.27
+2025-0062,2025-04-20,2025,4,Alemania,Retail Partners,US-006,Urban Eco,Sostenible,Marco Rossi,87,109.51,61.13,9527.37,5318.31,4209.06,44.18
+2025-0063,2025-04-28,2025,4,Italia,Amazon,US-001,Urban Classic,Casual,Laura Martín,57,84.98,41.26,4843.86,2351.82,2492.04,51.45
+2025-0064,2025-04-10,2025,4,Alemania,Ecommerce,US-004,Urban Trek,Outdoor,Carlos Ruiz,103,138.75,91.22,14291.25,9395.66,4895.59,34.26
+2025-0065,2025-04-12,2025,4,España,Amazon,US-005,Urban Kids,Infantil,Sophie Martin,55,56.69,29.67,3117.95,1631.85,1486.1,47.66
+2025-0066,2025-04-09,2025,4,Alemania,Tiendas Propias,US-006,Urban Eco,Sostenible,Marco Rossi,70,119.86,56.04,8390.2,3922.8,4467.4,53.25
+2025-0067,2025-04-08,2025,4,Francia,Tiendas Propias,US-001,Urban Classic,Casual,Laura Martín,88,79.53,43.17,6998.64,3798.96,3199.68,45.72
+2025-0068,2025-04-14,2025,4,Alemania,Tiendas Propias,US-008,Urban Flex,Casual,Sophie Martin,68,90.29,46.73,6139.72,3177.64,2962.08,48.24
+2025-0069,2025-04-22,2025,4,Francia,Ecommerce,US-008,Urban Flex,Casual,Laura Martín,26,92.11,48.52,2394.86,1261.52,1133.34,47.32
+2025-0070,2025-04-09,2025,4,España,Ecommerce,US-007,Urban Premium,Premium,Marco Rossi,24,148.08,86.26,3553.92,2070.24,1483.68,41.75
+2025-0071,2025-04-08,2025,4,Italia,Ecommerce,US-004,Urban Trek,Outdoor,Sophie Martin,82,122.55,85.46,10049.1,7007.72,3041.38,30.27
+2025-0072,2025-04-28,2025,4,España,Retail Partners,US-004,Urban Trek,Outdoor,Marco Rossi,66,132.05,85.74,8715.3,5658.84,3056.46,35.07
+2025-0073,2025-04-21,2025,4,Francia,Retail Partners,US-008,Urban Flex,Casual,Anna Keller,81,92.01,49.08,7452.81,3975.48,3477.33,46.66
+2025-0074,2025-04-25,2025,4,Alemania,Tiendas Propias,US-007,Urban Premium,Premium,Marco Rossi,92,148.28,84.44,13641.76,7768.48,5873.28,43.05
+2025-0075,2025-04-08,2025,4,Italia,Retail Partners,US-004,Urban Trek,Outdoor,Laura Martín,30,122.85,89.81,3685.5,2694.3,991.2,26.89
+2025-0076,2025-04-03,2025,4,Alemania,Tiendas Propias,US-002,Urban Runner,Running,Marco Rossi,95,104.67,51.3,9943.65,4873.5,5070.15,50.99
+2025-0077,2025-04-27,2025,4,Italia,Tiendas Propias,US-006,Urban Eco,Sostenible,Carlos Ruiz,66,110.12,59.07,7267.92,3898.62,3369.3,46.36
+2025-0078,2025-04-08,2025,4,Francia,Tiendas Propias,US-006,Urban Eco,Sostenible,Anna Keller,92,113.37,59.16,10430.04,5442.72,4987.32,47.82
+2025-0079,2025-04-25,2025,4,España,Ecommerce,US-003,Urban Business,Formal,Anna Keller,115,113.93,68.84,13101.95,7916.6,5185.35,39.58
+2025-0080,2025-04-06,2025,4,España,Tiendas Propias,US-001,Urban Classic,Casual,Anna Keller,30,76.0,44.06,2280.0,1321.8,958.2,42.03
+2025-0081,2025-05-23,2025,5,España,Amazon,US-004,Urban Trek,Outdoor,Carlos Ruiz,80,128.96,83.17,10316.8,6653.6,3663.2,35.51
+2025-0082,2025-05-04,2025,5,Alemania,Amazon,US-008,Urban Flex,Casual,Marco Rossi,30,96.71,44.81,2901.3,1344.3,1557.0,53.67
+2025-0083,2025-05-23,2025,5,Alemania,Tiendas Propias,US-004,Urban Trek,Outdoor,Carlos Ruiz,116,140.06,83.72,16246.96,9711.52,6535.44,40.23
+2025-0084,2025-05-02,2025,5,Italia,Tiendas Propias,US-007,Urban Premium,Premium,Anna Keller,96,148.92,90.23,14296.32,8662.08,5634.24,39.41
+2025-0085,2025-05-12,2025,5,Italia,Ecommerce,US-008,Urban Flex,Casual,Anna Keller,65,93.63,47.81,6085.95,3107.65,2978.3,48.94
+2025-0086,2025-05-16,2025,5,Francia,Retail Partners,US-007,Urban Premium,Premium,Carlos Ruiz,22,142.32,86.54,3131.04,1903.88,1227.16,39.19
+2025-0087,2025-05-26,2025,5,España,Tiendas Propias,US-006,Urban Eco,Sostenible,Anna Keller,30,105.25,62.54,3157.5,1876.2,1281.3,40.58
+2025-0088,2025-05-03,2025,5,Italia,Tiendas Propias,US-006,Urban Eco,Sostenible,Marco Rossi,47,108.23,61.58,5086.81,2894.26,2192.55,43.1
+2025-0089,2025-05-19,2025,5,Italia,Retail Partners,US-003,Urban Business,Formal,Marco Rossi,81,125.68,66.5,10180.08,5386.5,4793.58,47.09
+2025-0090,2025-05-03,2025,5,España,Retail Partners,US-004,Urban Trek,Outdoor,Laura Martín,46,140.07,89.66,6443.22,4124.36,2318.86,35.99
+2025-0091,2025-05-21,2025,5,Alemania,Ecommerce,US-001,Urban Classic,Casual,Sophie Martin,115,86.74,41.51,9975.1,4773.65,5201.45,52.14
+2025-0092,2025-05-14,2025,5,Alemania,Ecommerce,US-001,Urban Classic,Casual,Marco Rossi,22,86.27,40.98,1897.94,901.56,996.38,52.5
+2025-0093,2025-05-01,2025,5,España,Retail Partners,US-006,Urban Eco,Sostenible,Marco Rossi,46,119.28,60.69,5486.88,2791.74,2695.14,49.12
+2025-0094,2025-05-13,2025,5,Francia,Tiendas Propias,US-005,Urban Kids,Infantil,Marco Rossi,23,61.57,32.26,1416.11,741.98,674.13,47.6
+2025-0095,2025-05-18,2025,5,Francia,Ecommerce,US-006,Urban Eco,Sostenible,Marco Rossi,119,104.08,59.47,12385.52,7076.93,5308.59,42.86
+2025-0096,2025-05-11,2025,5,España,Ecommerce,US-004,Urban Trek,Outdoor,Anna Keller,43,132.96,81.58,5717.28,3507.94,2209.34,38.64
+2025-0097,2025-05-25,2025,5,Francia,Ecommerce,US-005,Urban Kids,Infantil,Sophie Martin,98,63.62,30.45,6234.76,2984.1,3250.66,52.14
+2025-0098,2025-05-24,2025,5,Francia,Tiendas Propias,US-001,Urban Classic,Casual,Laura Martín,38,77.7,42.33,2952.6,1608.54,1344.06,45.52
+2025-0099,2025-05-10,2025,5,Alemania,Amazon,US-001,Urban Classic,Casual,Carlos Ruiz,54,80.93,41.93,4370.22,2264.22,2106.0,48.19
+2025-0100,2025-05-16,2025,5,Francia,Ecommerce,US-003,Urban Business,Formal,Marco Rossi,59,130.25,66.64,7684.75,3931.76,3752.99,48.84
+2025-0101,2025-06-08,2025,6,Italia,Retail Partners,US-001,Urban Classic,Casual,Laura Martín,37,81.3,43.92,3008.1,1625.04,1383.06,45.98
+2025-0102,2025-06-11,2025,6,España,Retail Partners,US-004,Urban Trek,Outdoor,Sophie Martin,72,127.07,88.83,9149.04,6395.76,2753.28,30.09
+2025-0103,2025-06-18,2025,6,España,Retail Partners,US-005,Urban Kids,Infantil,Anna Keller,112,63.84,29.35,7150.08,3287.2,3862.88,54.03
+2025-0104,2025-06-21,2025,6,Alemania,Tiendas Propias,US-004,Urban Trek,Outdoor,Anna Keller,46,133.33,86.17,6133.18,3963.82,2169.36,35.37
+2025-0105,2025-06-05,2025,6,Francia,Retail Partners,US-006,Urban Eco,Sostenible,Laura Martín,44,109.26,62.36,4807.44,2743.84,2063.6,42.93
+2025-0106,2025-06-17,2025,6,España,Tiendas Propias,US-005,Urban Kids,Infantil,Marco Rossi,82,58.0,31.78,4756.0,2605.96,2150.04,45.21
+2025-0107,2025-06-10,2025,6,Alemania,Retail Partners,US-008,Urban Flex,Casual,Laura Martín,50,90.46,49.21,4523.0,2460.5,2062.5,45.6
+2025-0108,2025-06-06,2025,6,Italia,Tiendas Propias,US-008,Urban Flex,Casual,Sophie Martin,96,87.17,50.26,8368.32,4824.96,3543.36,42.34
+2025-0109,2025-06-14,2025,6,Italia,Tiendas Propias,US-001,Urban Classic,Casual,Anna Keller,30,75.55,40.78,2266.5,1223.4,1043.1,46.02
+2025-0110,2025-06-04,2025,6,Italia,Retail Partners,US-005,Urban Kids,Infantil,Anna Keller,28,61.94,29.03,1734.32,812.84,921.48,53.13
+2025-0111,2025-06-24,2025,6,Francia,Ecommerce,US-003,Urban Business,Formal,Carlos Ruiz,46,127.96,69.93,5886.16,3216.78,2669.38,45.35
+2025-0112,2025-06-21,2025,6,Francia,Tiendas Propias,US-006,Urban Eco,Sostenible,Carlos Ruiz,82,119.01,61.94,9758.82,5079.08,4679.74,47.95
+2025-0113,2025-06-20,2025,6,Italia,Retail Partners,US-002,Urban Runner,Running,Carlos Ruiz,77,107.05,55.72,8242.85,4290.44,3952.41,47.95
+2025-0114,2025-06-14,2025,6,Francia,Ecommerce,US-006,Urban Eco,Sostenible,Anna Keller,85,118.53,56.71,10075.05,4820.35,5254.7,52.16
+2025-0115,2025-06-20,2025,6,España,Tiendas Propias,US-008,Urban Flex,Casual,Laura Martín,99,93.79,46.92,9285.21,4645.08,4640.13,49.97
+2025-0116,2025-06-26,2025,6,Alemania,Amazon,US-002,Urban Runner,Running,Laura Martín,117,101.52,56.12,11877.84,6566.04,5311.8,44.72
+2025-0117,2025-06-08,2025,6,España,Tiendas Propias,US-007,Urban Premium,Premium,Anna Keller,89,143.38,83.88,12760.82,7465.32,5295.5,41.5
+2025-0118,2025-06-08,2025,6,Francia,Ecommerce,US-006,Urban Eco,Sostenible,Laura Martín,118,104.61,55.77,12343.98,6580.86,5763.12,46.69
+2025-0119,2025-06-04,2025,6,España,Ecommerce,US-005,Urban Kids,Infantil,Sophie Martin,72,59.5,31.3,4284.0,2253.6,2030.4,47.39
+2025-0120,2025-06-19,2025,6,Francia,Retail Partners,US-006,Urban Eco,Sostenible,Marco Rossi,33,107.81,60.67,3557.73,2002.11,1555.62,43.73
+2025-0121,2025-07-16,2025,7,Alemania,Ecommerce,US-006,Urban Eco,Sostenible,Marco Rossi,101,108.37,56.0,10945.37,5656.0,5289.37,48.33
+2025-0122,2025-07-11,2025,7,Italia,Amazon,US-003,Urban Business,Formal,Anna Keller,81,117.43,65.46,9511.83,5302.26,4209.57,44.26
+2025-0123,2025-07-10,2025,7,Italia,Retail Partners,US-004,Urban Trek,Outdoor,Laura Martín,108,136.76,90.0,14770.08,9720.0,5050.08,34.19
+2025-0124,2025-07-12,2025,7,Alemania,Tiendas Propias,US-004,Urban Trek,Outdoor,Carlos Ruiz,93,139.0,85.19,12927.0,7922.67,5004.33,38.71
+2025-0125,2025-07-26,2025,7,España,Tiendas Propias,US-004,Urban Trek,Outdoor,Sophie Martin,118,134.22,84.24,15837.96,9940.32,5897.64,37.24
+2025-0126,2025-07-09,2025,7,Francia,Tiendas Propias,US-002,Urban Runner,Running,Sophie Martin,114,105.71,54.32,12050.94,6192.48,5858.46,48.61
+2025-0127,2025-07-05,2025,7,Italia,Ecommerce,US-008,Urban Flex,Casual,Laura Martín,25,95.74,47.13,2393.5,1178.25,1215.25,50.77
+2025-0128,2025-07-13,2025,7,Francia,Amazon,US-001,Urban Classic,Casual,Marco Rossi,82,86.73,45.18,7111.86,3704.76,3407.1,47.91
+2025-0129,2025-07-03,2025,7,Alemania,Amazon,US-007,Urban Premium,Premium,Anna Keller,87,155.99,93.31,13571.13,8117.97,5453.16,40.18
+2025-0130,2025-07-16,2025,7,Francia,Tiendas Propias,US-004,Urban Trek,Outdoor,Anna Keller,78,130.69,88.89,10193.82,6933.42,3260.4,31.98
+2025-0131,2025-07-07,2025,7,Francia,Tiendas Propias,US-002,Urban Runner,Running,Sophie Martin,54,94.82,51.2,5120.28,2764.8,2355.48,46.0
+2025-0132,2025-07-08,2025,7,Francia,Ecommerce,US-003,Urban Business,Formal,Laura Martín,60,117.21,69.99,7032.6,4199.4,2833.2,40.29
+2025-0133,2025-07-20,2025,7,España,Tiendas Propias,US-004,Urban Trek,Outdoor,Sophie Martin,81,122.71,81.38,9939.51,6591.78,3347.73,33.68
+2025-0134,2025-07-11,2025,7,Alemania,Amazon,US-007,Urban Premium,Premium,Anna Keller,64,143.78,90.21,9201.92,5773.44,3428.48,37.26
+2025-0135,2025-07-01,2025,7,Alemania,Amazon,US-001,Urban Classic,Casual,Laura Martín,66,76.07,40.09,5020.62,2645.94,2374.68,47.3
+2025-0136,2025-07-12,2025,7,Francia,Tiendas Propias,US-008,Urban Flex,Casual,Laura Martín,41,94.88,46.4,3890.08,1902.4,1987.68,51.1
+2025-0137,2025-07-12,2025,7,Italia,Tiendas Propias,US-001,Urban Classic,Casual,Marco Rossi,118,85.59,40.77,10099.62,4810.86,5288.76,52.37
+2025-0138,2025-07-19,2025,7,España,Ecommerce,US-006,Urban Eco,Sostenible,Carlos Ruiz,106,116.03,61.79,12299.18,6549.74,5749.44,46.75
+2025-0139,2025-07-06,2025,7,Alemania,Retail Partners,US-005,Urban Kids,Infantil,Anna Keller,37,64.84,31.42,2399.08,1162.54,1236.54,51.54
+2025-0140,2025-07-10,2025,7,Italia,Ecommerce,US-003,Urban Business,Formal,Marco Rossi,58,115.25,66.49,6684.5,3856.42,2828.08,42.31
+2025-0141,2025-08-14,2025,8,Francia,Retail Partners,US-008,Urban Flex,Casual,Sophie Martin,54,88.76,47.89,4793.04,2586.06,2206.98,46.05
+2025-0142,2025-08-06,2025,8,Francia,Retail Partners,US-004,Urban Trek,Outdoor,Sophie Martin,101,123.9,83.88,12513.9,8471.88,4042.02,32.3
+2025-0143,2025-08-10,2025,8,Italia,Amazon,US-005,Urban Kids,Infantil,Laura Martín,48,58.29,30.58,2797.92,1467.84,1330.08,47.54
+2025-0144,2025-08-08,2025,8,España,Ecommerce,US-004,Urban Trek,Outdoor,Marco Rossi,101,133.61,90.88,13494.61,9178.88,4315.73,31.98
+2025-0145,2025-08-24,2025,8,Alemania,Tiendas Propias,US-002,Urban Runner,Running,Anna Keller,75,102.46,55.21,7684.5,4140.75,3543.75,46.12
+2025-0146,2025-08-13,2025,8,Italia,Ecommerce,US-007,Urban Premium,Premium,Anna Keller,30,148.29,92.15,4448.7,2764.5,1684.2,37.86
+2025-0147,2025-08-06,2025,8,Alemania,Ecommerce,US-004,Urban Trek,Outdoor,Carlos Ruiz,69,140.46,86.57,9691.74,5973.33,3718.41,38.37
+2025-0148,2025-08-26,2025,8,Francia,Ecommerce,US-003,Urban Business,Formal,Sophie Martin,25,115.06,66.62,2876.5,1665.5,1211.0,42.1
+2025-0149,2025-08-19,2025,8,Italia,Amazon,US-004,Urban Trek,Outdoor,Sophie Martin,95,133.9,84.83,12720.5,8058.85,4661.65,36.65
+2025-0150,2025-08-21,2025,8,Italia,Tiendas Propias,US-008,Urban Flex,Casual,Anna Keller,40,95.15,49.78,3806.0,1991.2,1814.8,47.68
+2025-0151,2025-08-11,2025,8,Francia,Amazon,US-008,Urban Flex,Casual,Sophie Martin,69,92.28,50.17,6367.32,3461.73,2905.59,45.63
+2025-0152,2025-08-07,2025,8,Francia,Tiendas Propias,US-007,Urban Premium,Premium,Laura Martín,72,143.51,93.16,10332.72,6707.52,3625.2,35.08
+2025-0153,2025-08-21,2025,8,España,Amazon,US-006,Urban Eco,Sostenible,Carlos Ruiz,101,109.15,55.27,11024.15,5582.27,5441.88,49.36
+2025-0154,2025-08-24,2025,8,Italia,Ecommerce,US-008,Urban Flex,Casual,Laura Martín,27,88.0,45.59,2376.0,1230.93,1145.07,48.19
+2025-0155,2025-08-11,2025,8,España,Tiendas Propias,US-007,Urban Premium,Premium,Marco Rossi,86,148.74,90.16,12791.64,7753.76,5037.88,39.38
+2025-0156,2025-08-05,2025,8,España,Retail Partners,US-001,Urban Classic,Casual,Anna Keller,50,80.61,40.4,4030.5,2020.0,2010.5,49.88
+2025-0157,2025-08-08,2025,8,España,Ecommerce,US-003,Urban Business,Formal,Laura Martín,58,125.82,72.33,7297.56,4195.14,3102.42,42.51
+2025-0158,2025-08-25,2025,8,Francia,Retail Partners,US-002,Urban Runner,Running,Marco Rossi,69,107.89,51.32,7444.41,3541.08,3903.33,52.43
+2025-0159,2025-08-23,2025,8,Italia,Retail Partners,US-002,Urban Runner,Running,Laura Martín,85,101.89,51.0,8660.65,4335.0,4325.65,49.95
+2025-0160,2025-08-19,2025,8,España,Amazon,US-004,Urban Trek,Outdoor,Carlos Ruiz,91,129.71,88.0,11803.61,8008.0,3795.61,32.16
+2025-0161,2025-09-25,2025,9,Francia,Retail Partners,US-003,Urban Business,Formal,Marco Rossi,111,129.86,71.54,14414.46,7940.94,6473.52,44.91
+2025-0162,2025-09-20,2025,9,Italia,Retail Partners,US-007,Urban Premium,Premium,Anna Keller,39,141.57,88.4,5521.23,3447.6,2073.63,37.56
+2025-0163,2025-09-16,2025,9,Francia,Amazon,US-007,Urban Premium,Premium,Anna Keller,59,161.8,91.1,9546.2,5374.9,4171.3,43.7
+2025-0164,2025-09-22,2025,9,Italia,Ecommerce,US-005,Urban Kids,Infantil,Laura Martín,88,62.89,29.82,5534.32,2624.16,2910.16,52.58
+2025-0165,2025-09-01,2025,9,Francia,Amazon,US-006,Urban Eco,Sostenible,Anna Keller,38,111.72,57.73,4245.36,2193.74,2051.62,48.33
+2025-0166,2025-09-14,2025,9,Francia,Retail Partners,US-006,Urban Eco,Sostenible,Anna Keller,111,119.37,55.37,13250.07,6146.07,7104.0,53.61
+2025-0167,2025-09-11,2025,9,Alemania,Ecommerce,US-007,Urban Premium,Premium,Marco Rossi,117,157.75,89.75,18456.75,10500.75,7956.0,43.11
+2025-0168,2025-09-15,2025,9,Alemania,Amazon,US-007,Urban Premium,Premium,Marco Rossi,96,158.27,94.29,15193.92,9051.84,6142.08,40.42
+2025-0169,2025-09-15,2025,9,España,Retail Partners,US-003,Urban Business,Formal,Laura Martín,49,127.02,71.46,6223.98,3501.54,2722.44,43.74
+2025-0170,2025-09-26,2025,9,Francia,Tiendas Propias,US-006,Urban Eco,Sostenible,Marco Rossi,105,108.92,59.69,11436.6,6267.45,5169.15,45.2
+2025-0171,2025-09-11,2025,9,Francia,Ecommerce,US-007,Urban Premium,Premium,Carlos Ruiz,54,149.43,86.67,8069.22,4680.18,3389.04,42.0
+2025-0172,2025-09-08,2025,9,Italia,Tiendas Propias,US-002,Urban Runner,Running,Marco Rossi,61,104.83,49.85,6394.63,3040.85,3353.78,52.45
+2025-0173,2025-09-12,2025,9,Italia,Tiendas Propias,US-005,Urban Kids,Infantil,Laura Martín,73,61.38,28.52,4480.74,2081.96,2398.78,53.54
+2025-0174,2025-09-23,2025,9,Francia,Tiendas Propias,US-002,Urban Runner,Running,Anna Keller,55,105.02,51.44,5776.1,2829.2,2946.9,51.02
+2025-0175,2025-09-01,2025,9,Alemania,Tiendas Propias,US-008,Urban Flex,Casual,Anna Keller,74,89.03,50.52,6588.22,3738.48,2849.74,43.26
+2025-0176,2025-09-15,2025,9,Italia,Amazon,US-002,Urban Runner,Running,Carlos Ruiz,39,104.7,49.99,4083.3,1949.61,2133.69,52.25
+2025-0177,2025-09-05,2025,9,España,Ecommerce,US-004,Urban Trek,Outdoor,Sophie Martin,80,141.71,86.21,11336.8,6896.8,4440.0,39.16
+2025-0178,2025-09-21,2025,9,Francia,Amazon,US-001,Urban Classic,Casual,Laura Martín,94,77.99,41.69,7331.06,3918.86,3412.2,46.54
+2025-0179,2025-09-19,2025,9,Alemania,Retail Partners,US-007,Urban Premium,Premium,Anna Keller,32,161.04,87.1,5153.28,2787.2,2366.08,45.91
+2025-0180,2025-09-14,2025,9,Alemania,Tiendas Propias,US-002,Urban Runner,Running,Anna Keller,51,101.94,50.83,5198.94,2592.33,2606.61,50.14
+2025-0181,2025-10-04,2025,10,España,Ecommerce,US-006,Urban Eco,Sostenible,Anna Keller,104,114.6,56.81,11918.4,5908.24,6010.16,50.43
+2025-0182,2025-10-28,2025,10,España,Amazon,US-005,Urban Kids,Infantil,Anna Keller,23,58.91,30.1,1354.93,692.3,662.63,48.91
+2025-0183,2025-10-08,2025,10,España,Ecommerce,US-002,Urban Runner,Running,Anna Keller,51,97.04,55.36,4949.04,2823.36,2125.68,42.95
+2025-0184,2025-10-22,2025,10,Francia,Ecommerce,US-004,Urban Trek,Outdoor,Anna Keller,117,140.64,91.12,16454.88,10661.04,5793.84,35.21
+2025-0185,2025-10-15,2025,10,Italia,Amazon,US-002,Urban Runner,Running,Laura Martín,32,103.82,52.36,3322.24,1675.52,1646.72,49.57
+2025-0186,2025-10-14,2025,10,España,Tiendas Propias,US-004,Urban Trek,Outdoor,Sophie Martin,21,137.25,85.05,2882.25,1786.05,1096.2,38.03
+2025-0187,2025-10-03,2025,10,Alemania,Ecommerce,US-005,Urban Kids,Infantil,Sophie Martin,81,58.39,29.12,4729.59,2358.72,2370.87,50.13
+2025-0188,2025-10-24,2025,10,Francia,Retail Partners,US-003,Urban Business,Formal,Carlos Ruiz,104,120.33,70.51,12514.32,7333.04,5181.28,41.4
+2025-0189,2025-10-16,2025,10,Italia,Amazon,US-007,Urban Premium,Premium,Carlos Ruiz,117,162.1,87.51,18965.7,10238.67,8727.03,46.01
+2025-0190,2025-10-14,2025,10,Francia,Amazon,US-005,Urban Kids,Infantil,Sophie Martin,99,59.5,28.93,5890.5,2864.07,3026.43,51.38
+2025-0191,2025-10-09,2025,10,Alemania,Tiendas Propias,US-006,Urban Eco,Sostenible,Marco Rossi,80,114.4,57.42,9152.0,4593.6,4558.4,49.81
+2025-0192,2025-10-01,2025,10,Alemania,Retail Partners,US-002,Urban Runner,Running,Anna Keller,48,105.56,52.61,5066.88,2525.28,2541.6,50.16
+2025-0193,2025-10-09,2025,10,Alemania,Amazon,US-005,Urban Kids,Infantil,Anna Keller,105,60.37,31.68,6338.85,3326.4,3012.45,47.52
+2025-0194,2025-10-01,2025,10,Alemania,Amazon,US-003,Urban Business,Formal,Marco Rossi,83,124.87,67.74,10364.21,5622.42,4741.79,45.75
+2025-0195,2025-10-03,2025,10,Alemania,Ecommerce,US-007,Urban Premium,Premium,Carlos Ruiz,28,150.81,90.33,4222.68,2529.24,1693.44,40.1
+2025-0196,2025-10-08,2025,10,Italia,Amazon,US-007,Urban Premium,Premium,Marco Rossi,100,145.26,91.43,14526.0,9143.0,5383.0,37.06
+2025-0197,2025-10-14,2025,10,Alemania,Tiendas Propias,US-007,Urban Premium,Premium,Sophie Martin,116,142.61,92.08,16542.76,10681.28,5861.48,35.43
+2025-0198,2025-10-21,2025,10,Francia,Amazon,US-006,Urban Eco,Sostenible,Sophie Martin,82,114.85,57.69,9417.7,4730.58,4687.12,49.77
+2025-0199,2025-10-02,2025,10,Italia,Retail Partners,US-001,Urban Classic,Casual,Carlos Ruiz,103,76.32,45.13,7860.96,4648.39,3212.57,40.87
+2025-0200,2025-10-14,2025,10,Alemania,Ecommerce,US-004,Urban Trek,Outdoor,Marco Rossi,75,127.94,87.4,9595.5,6555.0,3040.5,31.69
+2025-0201,2025-11-01,2025,11,España,Retail Partners,US-002,Urban Runner,Running,Laura Martín,79,104.26,55.1,8236.54,4352.9,3883.64,47.15
+2025-0202,2025-11-02,2025,11,Italia,Tiendas Propias,US-001,Urban Classic,Casual,Carlos Ruiz,108,77.34,41.62,8352.72,4494.96,3857.76,46.19
+2025-0203,2025-11-05,2025,11,Italia,Retail Partners,US-008,Urban Flex,Casual,Sophie Martin,102,96.48,46.54,9840.96,4747.08,5093.88,51.76
+2025-0204,2025-11-12,2025,11,España,Ecommerce,US-003,Urban Business,Formal,Carlos Ruiz,88,117.05,66.02,10300.4,5809.76,4490.64,43.6
+2025-0205,2025-11-08,2025,11,Alemania,Ecommerce,US-008,Urban Flex,Casual,Laura Martín,62,86.94,49.02,5390.28,3039.24,2351.04,43.62
+2025-0206,2025-11-14,2025,11,España,Amazon,US-005,Urban Kids,Infantil,Marco Rossi,35,59.69,29.88,2089.15,1045.8,1043.35,49.94
+2025-0207,2025-11-23,2025,11,España,Retail Partners,US-005,Urban Kids,Infantil,Sophie Martin,30,58.8,29.09,1764.0,872.7,891.3,50.53
+2025-0208,2025-11-19,2025,11,Italia,Retail Partners,US-007,Urban Premium,Premium,Anna Keller,45,148.46,83.94,6680.7,3777.3,2903.4,43.46
+2025-0209,2025-11-21,2025,11,Francia,Amazon,US-005,Urban Kids,Infantil,Sophie Martin,106,57.98,29.1,6145.88,3084.6,3061.28,49.81
+2025-0210,2025-11-22,2025,11,Italia,Tiendas Propias,US-008,Urban Flex,Casual,Sophie Martin,90,85.02,50.76,7651.8,4568.4,3083.4,40.3
+2025-0211,2025-11-25,2025,11,Alemania,Ecommerce,US-002,Urban Runner,Running,Marco Rossi,20,101.52,54.23,2030.4,1084.6,945.8,46.58
+2025-0212,2025-11-01,2025,11,España,Retail Partners,US-002,Urban Runner,Running,Marco Rossi,42,107.11,50.02,4498.62,2100.84,2397.78,53.3
+2025-0213,2025-11-14,2025,11,Italia,Retail Partners,US-003,Urban Business,Formal,Anna Keller,39,114.4,70.56,4461.6,2751.84,1709.76,38.32
+2025-0214,2025-11-11,2025,11,Francia,Retail Partners,US-001,Urban Classic,Casual,Sophie Martin,91,82.13,40.62,7473.83,3696.42,3777.41,50.54
+2025-0215,2025-11-24,2025,11,España,Ecommerce,US-004,Urban Trek,Outdoor,Sophie Martin,27,131.61,83.97,3553.47,2267.19,1286.28,36.2
+2025-0216,2025-11-04,2025,11,España,Retail Partners,US-007,Urban Premium,Premium,Laura Martín,43,144.25,88.83,6202.75,3819.69,2383.06,38.42
+2025-0217,2025-11-04,2025,11,Italia,Retail Partners,US-004,Urban Trek,Outdoor,Marco Rossi,81,137.88,84.43,11168.28,6838.83,4329.45,38.77
+2025-0218,2025-11-07,2025,11,España,Ecommerce,US-007,Urban Premium,Premium,Sophie Martin,51,163.89,88.27,8358.39,4501.77,3856.62,46.14
+2025-0219,2025-11-22,2025,11,Alemania,Ecommerce,US-002,Urban Runner,Running,Anna Keller,99,102.81,52.8,10178.19,5227.2,4950.99,48.64
+2025-0220,2025-11-02,2025,11,Alemania,Retail Partners,US-003,Urban Business,Formal,Sophie Martin,53,120.85,67.11,6405.05,3556.83,2848.22,44.47
+2025-0221,2025-12-08,2025,12,Alemania,Tiendas Propias,US-006,Urban Eco,Sostenible,Sophie Martin,53,113.69,57.96,6025.57,3071.88,2953.69,49.02
+2025-0222,2025-12-24,2025,12,Alemania,Ecommerce,US-001,Urban Classic,Casual,Sophie Martin,49,77.9,43.69,3817.1,2140.81,1676.29,43.92
+2025-0223,2025-12-18,2025,12,Francia,Amazon,US-002,Urban Runner,Running,Sophie Martin,29,97.27,49.93,2820.83,1447.97,1372.86,48.67
+2025-0224,2025-12-14,2025,12,Italia,Retail Partners,US-002,Urban Runner,Running,Carlos Ruiz,43,100.25,55.02,4310.75,2365.86,1944.89,45.12
+2025-0225,2025-12-07,2025,12,Francia,Amazon,US-005,Urban Kids,Infantil,Laura Martín,93,60.47,31.98,5623.71,2974.14,2649.57,47.11
+2025-0226,2025-12-01,2025,12,Alemania,Tiendas Propias,US-003,Urban Business,Formal,Carlos Ruiz,62,126.76,68.49,7859.12,4246.38,3612.74,45.97
+2025-0227,2025-12-20,2025,12,Italia,Retail Partners,US-001,Urban Classic,Casual,Anna Keller,26,83.76,44.12,2177.76,1147.12,1030.64,47.33
+2025-0228,2025-12-04,2025,12,Italia,Tiendas Propias,US-004,Urban Trek,Outdoor,Anna Keller,53,140.19,90.94,7430.07,4819.82,2610.25,35.13
+2025-0229,2025-12-19,2025,12,Alemania,Tiendas Propias,US-004,Urban Trek,Outdoor,Laura Martín,98,136.26,82.29,13353.48,8064.42,5289.06,39.61
+2025-0230,2025-12-15,2025,12,Italia,Retail Partners,US-004,Urban Trek,Outdoor,Sophie Martin,117,131.19,87.23,15349.23,10205.91,5143.32,33.51
+2025-0231,2025-12-18,2025,12,Francia,Retail Partners,US-002,Urban Runner,Running,Laura Martín,88,100.32,50.73,8828.16,4464.24,4363.92,49.43
+2025-0232,2025-12-27,2025,12,Francia,Retail Partners,US-006,Urban Eco,Sostenible,Laura Martín,36,118.6,61.87,4269.6,2227.32,2042.28,47.83
+2025-0233,2025-12-04,2025,12,Francia,Ecommerce,US-001,Urban Classic,Casual,Marco Rossi,49,86.52,42.66,4239.48,2090.34,2149.14,50.69
+2025-0234,2025-12-12,2025,12,Alemania,Amazon,US-003,Urban Business,Formal,Anna Keller,66,116.8,73.3,7708.8,4837.8,2871.0,37.24
+2025-0235,2025-12-01,2025,12,Italia,Retail Partners,US-007,Urban Premium,Premium,Laura Martín,53,149.68,89.42,7933.04,4739.26,3193.78,40.26
+2025-0236,2025-12-24,2025,12,Italia,Tiendas Propias,US-007,Urban Premium,Premium,Carlos Ruiz,93,154.31,91.62,14350.83,8520.66,5830.17,40.63
+2025-0237,2025-12-15,2025,12,Francia,Tiendas Propias,US-005,Urban Kids,Infantil,Marco Rossi,106,59.9,29.25,6349.4,3100.5,3248.9,51.17
+2025-0238,2025-12-11,2025,12,Italia,Retail Partners,US-006,Urban Eco,Sostenible,Carlos Ruiz,97,105.48,55.68,10231.56,5400.96,4830.6,47.21
+2025-0239,2025-12-01,2025,12,Alemania,Tiendas Propias,US-002,Urban Runner,Running,Marco Rossi,79,94.36,51.29,7454.44,4051.91,3402.53,45.64
+2025-0240,2025-12-20,2025,12,Francia,Amazon,US-006,Urban Eco,Sostenible,Sophie Martin,98,114.05,60.4,11176.9,5919.2,5257.7,47.04
