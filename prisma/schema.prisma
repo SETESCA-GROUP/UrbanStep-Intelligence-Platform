@@ -1,0 +1,69 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Customer {
+  id        String   @id @default(cuid())
+  externalId String  @unique
+  name      String
+  country   String
+  segment   String?
+  sales     Sale[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Product {
+  id         String   @id @default(cuid())
+  sku        String   @unique
+  name       String
+  category   String
+  collection String?
+  listPrice  Float
+  sales      Sale[]
+  goals      Goal[]
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model Sale {
+  id         String    @id @default(cuid())
+  saleDate   DateTime
+  year       Int
+  month      Int
+  country    String
+  channel    String
+  revenue    Float
+  cost       Float
+  units      Int
+  customerId String?
+  productId  String
+  customer   Customer? @relation(fields: [customerId], references: [id])
+  product    Product   @relation(fields: [productId], references: [id])
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+
+  @@index([year, month])
+  @@index([country, channel])
+}
+
+model Goal {
+  id            String   @id @default(cuid())
+  year          Int
+  month         Int
+  country       String
+  channel       String
+  revenueTarget Float
+  marginTarget  Float
+  productId     String?
+  product       Product? @relation(fields: [productId], references: [id])
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([year, month, country, channel])
+}
