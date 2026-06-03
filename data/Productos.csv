@@ -1,9 +1,9 @@
-SKU,Producto,Categoría,PrecioBase,CosteBase
-US-001,Urban Classic,Casual,79,42
-US-002,Urban Runner,Running,99,52
-US-003,Urban Business,Formal,119,68
-US-004,Urban Trek,Outdoor,129,85
-US-005,Urban Kids,Infantil,59,30
-US-006,Urban Eco,Sostenible,109,58
-US-007,Urban Premium,Premium,149,88
-US-008,Urban Flex,Casual,89,47
+﻿SKU,Producto,Categoría,PrecioBase,CosteBase
+US-001,Urban Classic,Casual,79.0,42.0
+US-002,Urban Runner,Running,99.0,52.0
+US-003,Urban Business,Formal,119.0,68.0
+US-004,Urban Trek,Outdoor,129.0,85.0
+US-005,Urban Kids,Infantil,59.0,30.0
+US-006,Urban Eco,Sostenible,109.0,58.0
+US-007,Urban Premium,Premium,149.0,88.0
+US-008,Urban Flex,Casual,89.0,47.0

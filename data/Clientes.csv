@@ -1,501 +1,501 @@
-ClienteID,Nombre,País,Segmento,FechaAlta,CanalPreferido,ValorCliente
-C0001,Cliente 1,Italia,Retail Partner,2024-09-15,Tiendas Propias,12082
-C0002,Cliente 2,Italia,Retail Partner,2026-08-26,Amazon,12322
-C0003,Cliente 3,Alemania,Professional,2023-05-07,Retail Partners,17719
-C0004,Cliente 4,España,Professional,2026-01-08,Ecommerce,17059
-C0005,Cliente 5,Italia,Professional,2024-08-21,Amazon,2590
-C0006,Cliente 6,Italia,Professional,2026-10-25,Retail Partners,20365
-C0007,Cliente 7,Italia,Consumer,2023-08-27,Tiendas Propias,23574
-C0008,Cliente 8,España,Professional,2025-05-09,Ecommerce,7569
-C0009,Cliente 9,Alemania,Professional,2024-08-18,Ecommerce,13661
-C0010,Cliente 10,Francia,Professional,2023-04-15,Retail Partners,17002
-C0011,Cliente 11,Alemania,Consumer,2025-01-11,Ecommerce,8291
-C0012,Cliente 12,Alemania,Professional,2026-06-27,Retail Partners,14880
-C0013,Cliente 13,Alemania,Retail Partner,2022-02-04,Retail Partners,22195
-C0014,Cliente 14,Alemania,Professional,2022-05-10,Ecommerce,11595
-C0015,Cliente 15,Italia,Professional,2023-02-16,Amazon,24956
-C0016,Cliente 16,España,Retail Partner,2025-06-18,Retail Partners,4060
-C0017,Cliente 17,España,Retail Partner,2025-01-12,Amazon,12315
-C0018,Cliente 18,Alemania,Consumer,2023-08-04,Tiendas Propias,1250
-C0019,Cliente 19,Alemania,Retail Partner,2025-11-03,Ecommerce,17413
-C0020,Cliente 20,España,Retail Partner,2026-10-18,Ecommerce,20011
-C0021,Cliente 21,Francia,Consumer,2025-10-27,Amazon,8929
-C0022,Cliente 22,Italia,Professional,2023-06-05,Tiendas Propias,1015
-C0023,Cliente 23,Alemania,Consumer,2023-09-08,Tiendas Propias,4691
-C0024,Cliente 24,Alemania,Consumer,2026-04-03,Amazon,1984
-C0025,Cliente 25,España,Consumer,2022-03-07,Tiendas Propias,9370
-C0026,Cliente 26,España,Professional,2023-08-13,Amazon,5378
-C0027,Cliente 27,España,Professional,2024-09-10,Amazon,12640
-C0028,Cliente 28,Italia,Retail Partner,2024-02-12,Amazon,22178
-C0029,Cliente 29,Italia,Professional,2023-07-26,Ecommerce,5906
-C0030,Cliente 30,España,Professional,2026-04-14,Amazon,14729
-C0031,Cliente 31,Francia,Professional,2024-03-16,Tiendas Propias,20587
-C0032,Cliente 32,España,Consumer,2022-11-24,Amazon,3925
-C0033,Cliente 33,Alemania,Retail Partner,2023-02-28,Retail Partners,13768
-C0034,Cliente 34,Italia,Consumer,2026-11-01,Retail Partners,20848
-C0035,Cliente 35,Alemania,Consumer,2023-11-24,Tiendas Propias,7277
-C0036,Cliente 36,España,Retail Partner,2025-05-04,Ecommerce,2288
-C0037,Cliente 37,Francia,Retail Partner,2025-09-07,Ecommerce,8425
-C0038,Cliente 38,Alemania,Consumer,2026-06-20,Amazon,11637
-C0039,Cliente 39,Francia,Professional,2026-09-22,Amazon,7565
-C0040,Cliente 40,Francia,Professional,2024-05-16,Tiendas Propias,6458
-C0041,Cliente 41,España,Consumer,2023-05-04,Tiendas Propias,15878
-C0042,Cliente 42,Alemania,Retail Partner,2022-06-26,Tiendas Propias,17104
-C0043,Cliente 43,Francia,Consumer,2025-04-10,Ecommerce,19835
-C0044,Cliente 44,Francia,Retail Partner,2025-11-26,Amazon,8628
-C0045,Cliente 45,Italia,Consumer,2026-04-08,Retail Partners,3640
-C0046,Cliente 46,Francia,Professional,2023-06-01,Ecommerce,13039
-C0047,Cliente 47,Alemania,Professional,2026-03-24,Tiendas Propias,10635
-C0048,Cliente 48,Italia,Retail Partner,2023-08-17,Ecommerce,14790
-C0049,Cliente 49,Alemania,Retail Partner,2026-06-14,Tiendas Propias,18900
-C0050,Cliente 50,Alemania,Consumer,2024-03-27,Amazon,19239
-C0051,Cliente 51,Alemania,Retail Partner,2026-09-05,Retail Partners,17318
-C0052,Cliente 52,Alemania,Retail Partner,2026-02-19,Amazon,19825
-C0053,Cliente 53,Francia,Consumer,2026-11-23,Retail Partners,14136
-C0054,Cliente 54,Francia,Consumer,2025-03-03,Retail Partners,24034
-C0055,Cliente 55,España,Professional,2026-06-01,Tiendas Propias,17750
-C0056,Cliente 56,Alemania,Retail Partner,2023-01-18,Ecommerce,2007
-C0057,Cliente 57,Francia,Retail Partner,2025-08-01,Ecommerce,11839
-C0058,Cliente 58,Francia,Retail Partner,2026-07-28,Retail Partners,11908
-C0059,Cliente 59,Alemania,Consumer,2024-08-22,Amazon,13076
-C0060,Cliente 60,España,Consumer,2025-10-03,Ecommerce,24052
-C0061,Cliente 61,Francia,Retail Partner,2026-07-26,Retail Partners,11527
-C0062,Cliente 62,Italia,Retail Partner,2022-07-03,Retail Partners,23884
-C0063,Cliente 63,Alemania,Retail Partner,2025-04-01,Retail Partners,18365
-C0064,Cliente 64,España,Retail Partner,2025-05-12,Tiendas Propias,21555
-C0065,Cliente 65,Francia,Professional,2024-01-25,Retail Partners,11039
-C0066,Cliente 66,España,Retail Partner,2026-06-02,Amazon,14850
-C0067,Cliente 67,Italia,Retail Partner,2026-06-02,Retail Partners,10607
-C0068,Cliente 68,España,Retail Partner,2025-08-07,Ecommerce,10796
-C0069,Cliente 69,España,Consumer,2025-04-27,Tiendas Propias,14506
-C0070,Cliente 70,Alemania,Retail Partner,2022-03-28,Amazon,19719
-C0071,Cliente 71,España,Professional,2023-07-09,Tiendas Propias,3166
-C0072,Cliente 72,Italia,Professional,2026-01-08,Amazon,3204
-C0073,Cliente 73,Italia,Professional,2023-08-22,Tiendas Propias,744
-C0074,Cliente 74,España,Retail Partner,2025-07-13,Tiendas Propias,18817
-C0075,Cliente 75,Alemania,Professional,2023-12-09,Ecommerce,11710
-C0076,Cliente 76,Alemania,Consumer,2024-08-19,Tiendas Propias,21539
-C0077,Cliente 77,Italia,Professional,2026-01-20,Tiendas Propias,13979
-C0078,Cliente 78,España,Professional,2026-04-02,Tiendas Propias,8254
-C0079,Cliente 79,Alemania,Consumer,2026-12-21,Amazon,24233
-C0080,Cliente 80,Alemania,Professional,2024-04-24,Tiendas Propias,3053
-C0081,Cliente 81,España,Retail Partner,2022-03-11,Tiendas Propias,6603
-C0082,Cliente 82,Francia,Retail Partner,2022-09-18,Ecommerce,17713
-C0083,Cliente 83,Italia,Retail Partner,2023-04-21,Ecommerce,15691
-C0084,Cliente 84,Italia,Consumer,2025-06-11,Ecommerce,19349
-C0085,Cliente 85,España,Professional,2022-03-21,Tiendas Propias,21808
-C0086,Cliente 86,Italia,Consumer,2026-01-26,Retail Partners,18394
-C0087,Cliente 87,España,Professional,2024-11-15,Amazon,7186
-C0088,Cliente 88,Alemania,Retail Partner,2023-04-28,Amazon,22045
-C0089,Cliente 89,Italia,Consumer,2023-01-20,Amazon,13413
-C0090,Cliente 90,Francia,Consumer,2026-08-08,Retail Partners,2502
-C0091,Cliente 91,Alemania,Professional,2025-07-10,Tiendas Propias,21689
-C0092,Cliente 92,Francia,Retail Partner,2025-03-08,Tiendas Propias,5095
-C0093,Cliente 93,Alemania,Professional,2026-02-27,Tiendas Propias,19299
-C0094,Cliente 94,España,Professional,2023-08-01,Amazon,6815
-C0095,Cliente 95,Alemania,Consumer,2022-07-16,Ecommerce,23793
-C0096,Cliente 96,Alemania,Retail Partner,2025-02-04,Retail Partners,20035
-C0097,Cliente 97,Alemania,Professional,2026-08-03,Ecommerce,1474
-C0098,Cliente 98,España,Retail Partner,2022-05-15,Ecommerce,21849
-C0099,Cliente 99,Francia,Professional,2024-05-26,Tiendas Propias,577
-C0100,Cliente 100,España,Retail Partner,2026-10-27,Tiendas Propias,1888
-C0101,Cliente 101,Francia,Consumer,2025-01-09,Tiendas Propias,9159
-C0102,Cliente 102,Alemania,Consumer,2022-03-01,Tiendas Propias,9854
-C0103,Cliente 103,Italia,Professional,2025-03-06,Tiendas Propias,10933
-C0104,Cliente 104,España,Consumer,2023-07-13,Tiendas Propias,1054
-C0105,Cliente 105,España,Professional,2024-05-24,Ecommerce,24675
-C0106,Cliente 106,Italia,Consumer,2022-07-09,Ecommerce,10395
-C0107,Cliente 107,Alemania,Consumer,2023-08-12,Amazon,6221
-C0108,Cliente 108,Italia,Consumer,2022-03-27,Amazon,5605
-C0109,Cliente 109,España,Retail Partner,2023-08-13,Amazon,17821
-C0110,Cliente 110,Italia,Retail Partner,2025-06-02,Retail Partners,22522
-C0111,Cliente 111,Italia,Retail Partner,2026-03-14,Ecommerce,6704
-C0112,Cliente 112,España,Retail Partner,2023-09-22,Tiendas Propias,14938
-C0113,Cliente 113,España,Professional,2024-10-22,Tiendas Propias,16771
-C0114,Cliente 114,España,Retail Partner,2023-08-22,Retail Partners,21828
-C0115,Cliente 115,Italia,Consumer,2026-02-11,Amazon,10184
-C0116,Cliente 116,Alemania,Professional,2025-02-27,Ecommerce,17984
-C0117,Cliente 117,España,Retail Partner,2023-11-10,Retail Partners,7791
-C0118,Cliente 118,Francia,Retail Partner,2024-10-09,Tiendas Propias,10889
-C0119,Cliente 119,Italia,Professional,2026-10-09,Ecommerce,18680
-C0120,Cliente 120,Italia,Professional,2026-04-16,Amazon,21560
-C0121,Cliente 121,Alemania,Professional,2024-05-22,Tiendas Propias,4689
-C0122,Cliente 122,Alemania,Professional,2024-05-24,Tiendas Propias,11159
-C0123,Cliente 123,España,Consumer,2023-01-03,Amazon,12162
-C0124,Cliente 124,Alemania,Professional,2026-11-05,Amazon,6510
-C0125,Cliente 125,Italia,Professional,2023-01-11,Amazon,7007
-C0126,Cliente 126,Alemania,Consumer,2023-11-12,Tiendas Propias,11221
-C0127,Cliente 127,Italia,Consumer,2022-08-05,Ecommerce,10847
-C0128,Cliente 128,España,Retail Partner,2022-07-04,Amazon,6525
-C0129,Cliente 129,Italia,Professional,2022-05-10,Ecommerce,20172
-C0130,Cliente 130,Italia,Retail Partner,2023-05-15,Retail Partners,1252
-C0131,Cliente 131,Italia,Professional,2024-01-03,Amazon,23900
-C0132,Cliente 132,Italia,Professional,2025-06-07,Tiendas Propias,17021
-C0133,Cliente 133,España,Professional,2023-05-09,Tiendas Propias,1458
-C0134,Cliente 134,Alemania,Consumer,2023-04-27,Retail Partners,21273
-C0135,Cliente 135,Francia,Professional,2025-11-20,Tiendas Propias,909
-C0136,Cliente 136,España,Consumer,2023-09-20,Amazon,18700
-C0137,Cliente 137,España,Retail Partner,2023-06-23,Tiendas Propias,16475
-C0138,Cliente 138,Francia,Professional,2025-04-09,Retail Partners,6229
-C0139,Cliente 139,España,Consumer,2023-05-28,Tiendas Propias,20935
-C0140,Cliente 140,Alemania,Retail Partner,2025-06-25,Amazon,18621
-C0141,Cliente 141,España,Consumer,2026-04-27,Retail Partners,2796
-C0142,Cliente 142,Italia,Retail Partner,2023-04-22,Tiendas Propias,5000
-C0143,Cliente 143,España,Professional,2022-01-21,Retail Partners,9697
-C0144,Cliente 144,España,Professional,2025-12-03,Amazon,588
-C0145,Cliente 145,Italia,Consumer,2024-03-21,Amazon,7045
-C0146,Cliente 146,Francia,Consumer,2024-02-11,Amazon,21078
-C0147,Cliente 147,Alemania,Retail Partner,2026-11-27,Tiendas Propias,5112
-C0148,Cliente 148,Italia,Retail Partner,2024-02-18,Retail Partners,6676
-C0149,Cliente 149,España,Professional,2026-07-17,Tiendas Propias,12218
-C0150,Cliente 150,Italia,Consumer,2026-09-21,Retail Partners,13860
-C0151,Cliente 151,Alemania,Retail Partner,2022-06-17,Ecommerce,9948
-C0152,Cliente 152,España,Professional,2026-08-26,Ecommerce,1915
-C0153,Cliente 153,Francia,Consumer,2022-06-06,Amazon,11102
-C0154,Cliente 154,Francia,Professional,2024-09-19,Tiendas Propias,23806
-C0155,Cliente 155,Alemania,Retail Partner,2023-10-23,Retail Partners,20897
-C0156,Cliente 156,Francia,Retail Partner,2026-06-09,Tiendas Propias,13719
-C0157,Cliente 157,Francia,Professional,2023-02-27,Tiendas Propias,17308
-C0158,Cliente 158,Italia,Consumer,2022-11-05,Retail Partners,12858
-C0159,Cliente 159,Italia,Professional,2025-03-02,Amazon,23033
-C0160,Cliente 160,Italia,Professional,2023-05-03,Retail Partners,2417
-C0161,Cliente 161,España,Consumer,2025-07-28,Retail Partners,3362
-C0162,Cliente 162,Francia,Consumer,2023-05-15,Ecommerce,24662
-C0163,Cliente 163,Francia,Professional,2023-06-15,Amazon,7813
-C0164,Cliente 164,Francia,Professional,2025-02-04,Retail Partners,12362
-C0165,Cliente 165,Italia,Retail Partner,2022-01-25,Tiendas Propias,11690
-C0166,Cliente 166,Alemania,Consumer,2023-05-28,Amazon,6306
-C0167,Cliente 167,Italia,Professional,2025-12-03,Tiendas Propias,4465
-C0168,Cliente 168,España,Consumer,2022-02-12,Ecommerce,18799
-C0169,Cliente 169,Italia,Professional,2026-05-26,Ecommerce,17154
-C0170,Cliente 170,España,Professional,2026-07-08,Tiendas Propias,667
-C0171,Cliente 171,Francia,Consumer,2023-03-10,Tiendas Propias,13972
-C0172,Cliente 172,Italia,Consumer,2025-04-14,Ecommerce,2461
-C0173,Cliente 173,Alemania,Consumer,2023-02-01,Retail Partners,6684
-C0174,Cliente 174,Italia,Consumer,2022-11-26,Tiendas Propias,587
-C0175,Cliente 175,Italia,Professional,2022-08-20,Retail Partners,15758
-C0176,Cliente 176,Francia,Professional,2024-11-15,Ecommerce,6675
-C0177,Cliente 177,España,Consumer,2025-01-04,Retail Partners,18121
-C0178,Cliente 178,Francia,Retail Partner,2022-04-08,Retail Partners,11446
-C0179,Cliente 179,Alemania,Consumer,2022-12-13,Amazon,5879
-C0180,Cliente 180,Alemania,Consumer,2025-06-03,Tiendas Propias,11455
-C0181,Cliente 181,Francia,Consumer,2022-08-21,Retail Partners,8981
-C0182,Cliente 182,Francia,Retail Partner,2025-11-24,Amazon,11883
-C0183,Cliente 183,Italia,Professional,2022-09-08,Retail Partners,20993
-C0184,Cliente 184,Italia,Retail Partner,2023-08-28,Retail Partners,1140
-C0185,Cliente 185,Alemania,Retail Partner,2023-08-28,Tiendas Propias,23962
-C0186,Cliente 186,Italia,Professional,2024-05-03,Tiendas Propias,9581
-C0187,Cliente 187,España,Consumer,2026-05-09,Amazon,18395
-C0188,Cliente 188,Italia,Retail Partner,2022-05-11,Retail Partners,15627
-C0189,Cliente 189,España,Consumer,2025-06-21,Tiendas Propias,17543
-C0190,Cliente 190,Italia,Retail Partner,2026-07-02,Retail Partners,21730
-C0191,Cliente 191,España,Professional,2022-11-28,Ecommerce,17167
-C0192,Cliente 192,Francia,Retail Partner,2022-03-06,Ecommerce,23991
-C0193,Cliente 193,Francia,Consumer,2026-02-22,Amazon,18073
-C0194,Cliente 194,España,Professional,2025-10-07,Retail Partners,6547
-C0195,Cliente 195,Italia,Consumer,2024-11-24,Tiendas Propias,11012
-C0196,Cliente 196,Alemania,Consumer,2022-09-11,Tiendas Propias,2905
-C0197,Cliente 197,Francia,Consumer,2022-10-17,Amazon,13148
-C0198,Cliente 198,Alemania,Professional,2022-07-06,Tiendas Propias,3289
-C0199,Cliente 199,Alemania,Professional,2025-11-10,Amazon,14183
-C0200,Cliente 200,Francia,Retail Partner,2026-03-01,Retail Partners,9710
-C0201,Cliente 201,Italia,Professional,2024-12-21,Tiendas Propias,1605
-C0202,Cliente 202,España,Retail Partner,2023-10-12,Tiendas Propias,5543
-C0203,Cliente 203,Francia,Retail Partner,2022-03-03,Amazon,1226
-C0204,Cliente 204,España,Consumer,2026-05-10,Tiendas Propias,20275
-C0205,Cliente 205,Italia,Consumer,2024-03-24,Amazon,8720
-C0206,Cliente 206,Alemania,Consumer,2023-06-25,Retail Partners,19448
-C0207,Cliente 207,Alemania,Consumer,2024-08-07,Tiendas Propias,18300
-C0208,Cliente 208,España,Retail Partner,2024-11-03,Retail Partners,8876
-C0209,Cliente 209,España,Retail Partner,2022-12-03,Retail Partners,8000
-C0210,Cliente 210,Italia,Retail Partner,2024-11-11,Tiendas Propias,2715
-C0211,Cliente 211,Francia,Retail Partner,2026-11-27,Retail Partners,3977
-C0212,Cliente 212,Italia,Retail Partner,2024-07-22,Retail Partners,23802
-C0213,Cliente 213,Francia,Professional,2025-07-17,Tiendas Propias,16637
-C0214,Cliente 214,Alemania,Professional,2023-10-11,Ecommerce,9705
-C0215,Cliente 215,España,Consumer,2026-04-15,Ecommerce,2979
-C0216,Cliente 216,Francia,Retail Partner,2022-09-26,Retail Partners,17122
-C0217,Cliente 217,Italia,Retail Partner,2024-09-06,Ecommerce,8681
-C0218,Cliente 218,Italia,Retail Partner,2026-11-19,Ecommerce,24538
-C0219,Cliente 219,Italia,Professional,2023-08-24,Ecommerce,13110
-C0220,Cliente 220,Francia,Consumer,2026-06-15,Amazon,22106
-C0221,Cliente 221,Italia,Professional,2023-01-18,Retail Partners,23744
-C0222,Cliente 222,Alemania,Professional,2025-10-14,Retail Partners,11294
-C0223,Cliente 223,Alemania,Professional,2023-09-02,Retail Partners,11866
-C0224,Cliente 224,España,Retail Partner,2023-01-28,Tiendas Propias,12327
-C0225,Cliente 225,Italia,Consumer,2023-06-12,Tiendas Propias,13041
-C0226,Cliente 226,Francia,Retail Partner,2025-12-01,Retail Partners,938
-C0227,Cliente 227,Francia,Professional,2023-01-16,Ecommerce,6054
-C0228,Cliente 228,Italia,Consumer,2024-11-14,Amazon,15209
-C0229,Cliente 229,Italia,Consumer,2025-12-07,Tiendas Propias,10623
-C0230,Cliente 230,Italia,Consumer,2025-03-06,Tiendas Propias,6678
-C0231,Cliente 231,Francia,Professional,2022-10-22,Ecommerce,12587
-C0232,Cliente 232,Italia,Retail Partner,2025-02-15,Amazon,21648
-C0233,Cliente 233,España,Professional,2025-09-15,Retail Partners,21325
-C0234,Cliente 234,Francia,Retail Partner,2025-09-05,Ecommerce,18852
-C0235,Cliente 235,España,Retail Partner,2023-05-18,Ecommerce,2608
-C0236,Cliente 236,Alemania,Professional,2022-07-02,Retail Partners,4833
-C0237,Cliente 237,Alemania,Retail Partner,2026-05-07,Retail Partners,15248
-C0238,Cliente 238,Italia,Retail Partner,2023-08-21,Amazon,23035
-C0239,Cliente 239,España,Retail Partner,2023-08-26,Amazon,1597
-C0240,Cliente 240,Alemania,Retail Partner,2024-04-16,Ecommerce,24802
-C0241,Cliente 241,Francia,Retail Partner,2024-03-26,Amazon,17502
-C0242,Cliente 242,Italia,Retail Partner,2025-07-03,Retail Partners,20228
-C0243,Cliente 243,España,Consumer,2023-09-26,Retail Partners,20676
-C0244,Cliente 244,Italia,Retail Partner,2025-05-09,Amazon,15654
-C0245,Cliente 245,Alemania,Retail Partner,2024-02-15,Amazon,17654
-C0246,Cliente 246,España,Consumer,2022-04-04,Ecommerce,21725
-C0247,Cliente 247,España,Consumer,2026-12-14,Retail Partners,7591
-C0248,Cliente 248,España,Professional,2025-06-16,Amazon,22601
-C0249,Cliente 249,Francia,Retail Partner,2025-08-17,Amazon,13525
-C0250,Cliente 250,Francia,Professional,2022-08-27,Amazon,17027
-C0251,Cliente 251,Italia,Retail Partner,2023-05-03,Ecommerce,3316
-C0252,Cliente 252,Alemania,Professional,2023-10-04,Retail Partners,13517
-C0253,Cliente 253,Italia,Professional,2026-02-28,Retail Partners,2940
-C0254,Cliente 254,Francia,Professional,2023-03-26,Ecommerce,2745
-C0255,Cliente 255,España,Retail Partner,2022-10-03,Ecommerce,2368
-C0256,Cliente 256,España,Retail Partner,2024-03-17,Tiendas Propias,5003
-C0257,Cliente 257,España,Professional,2022-11-03,Retail Partners,21860
-C0258,Cliente 258,Italia,Consumer,2024-06-26,Tiendas Propias,21890
-C0259,Cliente 259,Italia,Professional,2025-11-21,Ecommerce,8934
-C0260,Cliente 260,Alemania,Retail Partner,2023-11-08,Ecommerce,9392
-C0261,Cliente 261,Italia,Consumer,2025-06-14,Amazon,21294
-C0262,Cliente 262,Alemania,Retail Partner,2024-04-11,Amazon,19411
-C0263,Cliente 263,Alemania,Professional,2025-04-07,Amazon,6994
-C0264,Cliente 264,Alemania,Consumer,2025-05-20,Amazon,2322
-C0265,Cliente 265,Francia,Retail Partner,2025-01-03,Amazon,1108
-C0266,Cliente 266,España,Consumer,2022-02-27,Ecommerce,588
-C0267,Cliente 267,Francia,Consumer,2022-06-02,Tiendas Propias,7551
-C0268,Cliente 268,España,Consumer,2022-07-21,Retail Partners,11077
-C0269,Cliente 269,Italia,Consumer,2025-12-01,Tiendas Propias,21866
-C0270,Cliente 270,España,Consumer,2025-11-10,Ecommerce,10518
-C0271,Cliente 271,Francia,Professional,2024-09-16,Ecommerce,17526
-C0272,Cliente 272,España,Consumer,2025-10-12,Amazon,1872
-C0273,Cliente 273,Alemania,Professional,2026-01-09,Ecommerce,6648
-C0274,Cliente 274,España,Consumer,2023-05-02,Amazon,9071
-C0275,Cliente 275,Italia,Professional,2023-11-17,Retail Partners,21382
-C0276,Cliente 276,España,Professional,2025-04-22,Ecommerce,12290
-C0277,Cliente 277,España,Retail Partner,2026-07-11,Retail Partners,14761
-C0278,Cliente 278,Alemania,Retail Partner,2023-04-22,Retail Partners,3428
-C0279,Cliente 279,Alemania,Professional,2023-03-18,Ecommerce,6734
-C0280,Cliente 280,Italia,Retail Partner,2024-01-11,Amazon,6341
-C0281,Cliente 281,Alemania,Retail Partner,2023-04-22,Amazon,8931
-C0282,Cliente 282,Italia,Professional,2023-07-18,Amazon,9896
-C0283,Cliente 283,Italia,Professional,2024-11-24,Ecommerce,20417
-C0284,Cliente 284,España,Retail Partner,2022-12-23,Tiendas Propias,5395
-C0285,Cliente 285,Italia,Professional,2025-05-25,Retail Partners,11428
-C0286,Cliente 286,Italia,Retail Partner,2025-05-26,Amazon,3520
-C0287,Cliente 287,Italia,Consumer,2022-08-08,Amazon,3650
-C0288,Cliente 288,Alemania,Consumer,2024-05-19,Tiendas Propias,2154
-C0289,Cliente 289,Francia,Retail Partner,2023-09-04,Ecommerce,4093
-C0290,Cliente 290,Francia,Professional,2026-10-24,Ecommerce,17235
-C0291,Cliente 291,España,Retail Partner,2023-06-28,Amazon,10904
-C0292,Cliente 292,España,Consumer,2024-11-14,Ecommerce,20463
-C0293,Cliente 293,Italia,Professional,2022-06-12,Ecommerce,5999
-C0294,Cliente 294,España,Retail Partner,2023-10-12,Retail Partners,21809
-C0295,Cliente 295,Francia,Retail Partner,2023-10-11,Tiendas Propias,2491
-C0296,Cliente 296,Italia,Retail Partner,2026-04-14,Ecommerce,7985
-C0297,Cliente 297,Francia,Professional,2026-03-18,Ecommerce,14071
-C0298,Cliente 298,España,Professional,2022-06-04,Tiendas Propias,1950
-C0299,Cliente 299,Francia,Retail Partner,2025-11-15,Ecommerce,10181
-C0300,Cliente 300,España,Retail Partner,2025-12-24,Retail Partners,7146
-C0301,Cliente 301,Alemania,Consumer,2025-01-05,Retail Partners,12969
-C0302,Cliente 302,Francia,Consumer,2026-08-15,Retail Partners,18363
-C0303,Cliente 303,España,Consumer,2024-12-10,Amazon,22915
-C0304,Cliente 304,España,Consumer,2023-05-16,Retail Partners,8789
-C0305,Cliente 305,España,Retail Partner,2026-02-27,Amazon,18281
-C0306,Cliente 306,España,Retail Partner,2022-01-11,Amazon,4488
-C0307,Cliente 307,Alemania,Professional,2023-06-19,Tiendas Propias,18851
-C0308,Cliente 308,España,Consumer,2023-11-25,Amazon,7163
-C0309,Cliente 309,Alemania,Consumer,2024-12-17,Amazon,14025
-C0310,Cliente 310,Alemania,Professional,2026-02-14,Retail Partners,22358
-C0311,Cliente 311,España,Consumer,2023-03-24,Ecommerce,14235
-C0312,Cliente 312,Francia,Retail Partner,2026-08-05,Tiendas Propias,4856
-C0313,Cliente 313,España,Consumer,2026-07-04,Tiendas Propias,24529
-C0314,Cliente 314,Alemania,Consumer,2024-12-12,Tiendas Propias,4493
-C0315,Cliente 315,Francia,Retail Partner,2023-08-03,Amazon,20100
-C0316,Cliente 316,España,Consumer,2023-10-05,Ecommerce,10152
-C0317,Cliente 317,Italia,Professional,2022-09-26,Tiendas Propias,19930
-C0318,Cliente 318,Alemania,Professional,2026-08-17,Ecommerce,2435
-C0319,Cliente 319,España,Professional,2024-02-17,Amazon,18783
-C0320,Cliente 320,Alemania,Retail Partner,2022-09-28,Tiendas Propias,15189
-C0321,Cliente 321,Italia,Professional,2026-03-21,Amazon,16793
-C0322,Cliente 322,España,Consumer,2024-11-09,Amazon,19389
-C0323,Cliente 323,Francia,Retail Partner,2023-09-04,Amazon,14445
-C0324,Cliente 324,Italia,Consumer,2026-04-02,Tiendas Propias,6411
-C0325,Cliente 325,Italia,Professional,2026-09-09,Amazon,24930
-C0326,Cliente 326,Alemania,Retail Partner,2022-07-19,Retail Partners,10896
-C0327,Cliente 327,Alemania,Consumer,2022-07-15,Ecommerce,13114
-C0328,Cliente 328,Francia,Consumer,2024-08-28,Retail Partners,20715
-C0329,Cliente 329,España,Professional,2025-01-16,Tiendas Propias,8928
-C0330,Cliente 330,Alemania,Professional,2024-12-20,Retail Partners,11341
-C0331,Cliente 331,España,Retail Partner,2026-04-10,Tiendas Propias,1874
-C0332,Cliente 332,Italia,Retail Partner,2024-04-10,Retail Partners,13922
-C0333,Cliente 333,Francia,Retail Partner,2023-09-05,Tiendas Propias,17648
-C0334,Cliente 334,Alemania,Professional,2026-11-15,Ecommerce,9079
-C0335,Cliente 335,Alemania,Retail Partner,2023-03-12,Amazon,23822
-C0336,Cliente 336,Francia,Retail Partner,2025-08-26,Amazon,16282
-C0337,Cliente 337,Alemania,Professional,2026-11-03,Ecommerce,10224
-C0338,Cliente 338,España,Consumer,2024-03-25,Amazon,8980
-C0339,Cliente 339,Alemania,Professional,2024-02-11,Tiendas Propias,21757
-C0340,Cliente 340,Alemania,Consumer,2024-01-02,Tiendas Propias,6185
-C0341,Cliente 341,Alemania,Retail Partner,2022-12-01,Amazon,12503
-C0342,Cliente 342,Italia,Professional,2024-12-16,Tiendas Propias,4115
-C0343,Cliente 343,Italia,Retail Partner,2026-04-26,Tiendas Propias,18331
-C0344,Cliente 344,España,Professional,2026-06-28,Amazon,24296
-C0345,Cliente 345,Italia,Professional,2025-06-21,Retail Partners,21173
-C0346,Cliente 346,España,Consumer,2026-08-25,Ecommerce,24485
-C0347,Cliente 347,España,Professional,2024-07-07,Amazon,14901
-C0348,Cliente 348,Francia,Professional,2022-09-20,Retail Partners,13330
-C0349,Cliente 349,España,Consumer,2025-06-24,Ecommerce,3310
-C0350,Cliente 350,Alemania,Consumer,2023-05-10,Tiendas Propias,1364
-C0351,Cliente 351,Italia,Professional,2022-07-19,Tiendas Propias,8347
-C0352,Cliente 352,Alemania,Retail Partner,2025-08-25,Tiendas Propias,11281
-C0353,Cliente 353,Alemania,Consumer,2025-04-18,Amazon,6742
-C0354,Cliente 354,Francia,Retail Partner,2026-01-02,Tiendas Propias,5636
-C0355,Cliente 355,Francia,Retail Partner,2026-07-10,Ecommerce,6435
-C0356,Cliente 356,Italia,Consumer,2023-01-18,Ecommerce,7798
-C0357,Cliente 357,Francia,Retail Partner,2023-03-09,Amazon,11704
-C0358,Cliente 358,Francia,Professional,2024-07-05,Amazon,15245
-C0359,Cliente 359,Francia,Professional,2024-09-28,Amazon,20388
-C0360,Cliente 360,Alemania,Professional,2025-10-19,Tiendas Propias,21183
-C0361,Cliente 361,Francia,Retail Partner,2023-09-17,Retail Partners,1480
-C0362,Cliente 362,España,Professional,2025-01-22,Amazon,19348
-C0363,Cliente 363,Francia,Professional,2026-10-11,Ecommerce,10796
-C0364,Cliente 364,Alemania,Consumer,2023-04-17,Ecommerce,18782
-C0365,Cliente 365,Alemania,Retail Partner,2026-09-26,Amazon,19735
-C0366,Cliente 366,Italia,Retail Partner,2024-10-25,Amazon,14950
-C0367,Cliente 367,Italia,Professional,2026-02-21,Retail Partners,6283
-C0368,Cliente 368,Francia,Consumer,2025-05-07,Ecommerce,8949
-C0369,Cliente 369,España,Professional,2023-12-07,Tiendas Propias,7334
-C0370,Cliente 370,Italia,Retail Partner,2023-11-25,Ecommerce,5084
-C0371,Cliente 371,Alemania,Professional,2026-04-03,Retail Partners,1616
-C0372,Cliente 372,Italia,Consumer,2022-07-15,Retail Partners,17850
-C0373,Cliente 373,Francia,Professional,2025-01-26,Tiendas Propias,9445
-C0374,Cliente 374,España,Retail Partner,2026-10-23,Tiendas Propias,3464
-C0375,Cliente 375,Francia,Retail Partner,2026-06-16,Ecommerce,20141
-C0376,Cliente 376,España,Retail Partner,2022-01-27,Tiendas Propias,14539
-C0377,Cliente 377,España,Professional,2024-08-14,Tiendas Propias,4810
-C0378,Cliente 378,Italia,Professional,2023-08-06,Retail Partners,14026
-C0379,Cliente 379,Francia,Retail Partner,2022-01-05,Tiendas Propias,19602
-C0380,Cliente 380,Alemania,Professional,2022-03-02,Amazon,24235
-C0381,Cliente 381,Alemania,Professional,2025-08-26,Retail Partners,15012
-C0382,Cliente 382,Alemania,Professional,2024-12-06,Retail Partners,8533
-C0383,Cliente 383,Italia,Retail Partner,2023-02-15,Tiendas Propias,9421
-C0384,Cliente 384,España,Consumer,2024-10-20,Retail Partners,7309
-C0385,Cliente 385,Francia,Professional,2024-01-21,Amazon,9642
-C0386,Cliente 386,Alemania,Professional,2022-05-20,Retail Partners,16866
-C0387,Cliente 387,Alemania,Retail Partner,2022-08-05,Retail Partners,5951
-C0388,Cliente 388,Alemania,Professional,2025-11-02,Ecommerce,18092
-C0389,Cliente 389,Francia,Retail Partner,2025-05-15,Tiendas Propias,3339
-C0390,Cliente 390,España,Consumer,2026-11-25,Amazon,8424
-C0391,Cliente 391,España,Professional,2024-06-13,Tiendas Propias,10601
-C0392,Cliente 392,España,Consumer,2023-08-24,Tiendas Propias,16772
-C0393,Cliente 393,Alemania,Retail Partner,2026-12-20,Ecommerce,8312
-C0394,Cliente 394,Italia,Retail Partner,2022-05-24,Tiendas Propias,9863
-C0395,Cliente 395,Italia,Professional,2024-05-09,Amazon,831
-C0396,Cliente 396,Italia,Professional,2022-03-07,Amazon,17134
-C0397,Cliente 397,España,Professional,2024-05-05,Amazon,8568
-C0398,Cliente 398,España,Consumer,2022-07-19,Amazon,11198
-C0399,Cliente 399,Alemania,Professional,2024-12-28,Ecommerce,9107
-C0400,Cliente 400,Italia,Consumer,2026-09-09,Amazon,6312
-C0401,Cliente 401,España,Retail Partner,2023-08-21,Retail Partners,19637
-C0402,Cliente 402,Francia,Consumer,2022-12-27,Retail Partners,21266
-C0403,Cliente 403,Alemania,Professional,2025-10-20,Ecommerce,21346
-C0404,Cliente 404,Alemania,Consumer,2023-04-01,Tiendas Propias,5167
-C0405,Cliente 405,Italia,Professional,2023-04-11,Ecommerce,1526
-C0406,Cliente 406,Francia,Retail Partner,2024-12-25,Amazon,5876
-C0407,Cliente 407,España,Professional,2023-03-10,Tiendas Propias,6003
-C0408,Cliente 408,Alemania,Retail Partner,2024-06-18,Tiendas Propias,2163
-C0409,Cliente 409,Italia,Professional,2025-01-27,Retail Partners,3457
-C0410,Cliente 410,Alemania,Consumer,2025-05-08,Retail Partners,13984
-C0411,Cliente 411,Francia,Consumer,2022-10-16,Retail Partners,12832
-C0412,Cliente 412,España,Retail Partner,2025-01-24,Retail Partners,1337
-C0413,Cliente 413,España,Consumer,2025-10-11,Tiendas Propias,20187
-C0414,Cliente 414,Francia,Professional,2025-09-18,Amazon,15816
-C0415,Cliente 415,Italia,Professional,2026-04-01,Ecommerce,11161
-C0416,Cliente 416,Alemania,Professional,2025-07-03,Amazon,17833
-C0417,Cliente 417,Francia,Retail Partner,2022-06-25,Amazon,11844
-C0418,Cliente 418,Italia,Consumer,2023-04-09,Tiendas Propias,19118
-C0419,Cliente 419,Alemania,Consumer,2022-10-21,Amazon,7303
-C0420,Cliente 420,Francia,Retail Partner,2022-01-13,Retail Partners,15621
-C0421,Cliente 421,Francia,Professional,2025-09-02,Amazon,14291
-C0422,Cliente 422,Francia,Consumer,2025-06-24,Retail Partners,20526
-C0423,Cliente 423,Francia,Consumer,2025-06-18,Amazon,22747
-C0424,Cliente 424,Francia,Retail Partner,2022-05-19,Amazon,20532
-C0425,Cliente 425,Francia,Professional,2024-07-28,Ecommerce,16980
-C0426,Cliente 426,Francia,Professional,2022-09-26,Tiendas Propias,15101
-C0427,Cliente 427,España,Retail Partner,2022-10-10,Ecommerce,24151
-C0428,Cliente 428,España,Professional,2026-04-23,Retail Partners,2540
-C0429,Cliente 429,España,Retail Partner,2023-09-18,Ecommerce,3800
-C0430,Cliente 430,Alemania,Consumer,2026-09-05,Retail Partners,2441
-C0431,Cliente 431,Francia,Professional,2025-08-20,Retail Partners,20841
-C0432,Cliente 432,Alemania,Retail Partner,2025-04-22,Amazon,9142
-C0433,Cliente 433,Francia,Professional,2026-01-14,Tiendas Propias,15996
-C0434,Cliente 434,Alemania,Consumer,2022-07-28,Ecommerce,22542
-C0435,Cliente 435,Alemania,Professional,2025-11-06,Retail Partners,947
-C0436,Cliente 436,Italia,Professional,2023-05-24,Tiendas Propias,3460
-C0437,Cliente 437,Italia,Consumer,2023-07-26,Tiendas Propias,6539
-C0438,Cliente 438,Italia,Retail Partner,2024-01-18,Tiendas Propias,23052
-C0439,Cliente 439,España,Retail Partner,2023-09-25,Ecommerce,9290
-C0440,Cliente 440,Francia,Retail Partner,2025-07-21,Ecommerce,10626
-C0441,Cliente 441,Alemania,Retail Partner,2022-02-18,Retail Partners,12380
-C0442,Cliente 442,España,Retail Partner,2022-06-21,Amazon,19958
-C0443,Cliente 443,Italia,Retail Partner,2026-06-21,Retail Partners,8472
-C0444,Cliente 444,España,Professional,2024-02-07,Ecommerce,7418
-C0445,Cliente 445,Italia,Consumer,2026-11-17,Ecommerce,6352
-C0446,Cliente 446,España,Consumer,2023-04-08,Tiendas Propias,22306
-C0447,Cliente 447,Francia,Consumer,2025-03-16,Ecommerce,20390
-C0448,Cliente 448,Francia,Consumer,2026-04-10,Amazon,22131
-C0449,Cliente 449,Alemania,Retail Partner,2026-07-17,Tiendas Propias,17126
-C0450,Cliente 450,Alemania,Consumer,2025-02-03,Retail Partners,20858
-C0451,Cliente 451,Alemania,Retail Partner,2022-12-11,Amazon,23825
-C0452,Cliente 452,Francia,Consumer,2026-11-23,Retail Partners,4565
-C0453,Cliente 453,Italia,Professional,2023-06-17,Amazon,8020
-C0454,Cliente 454,Francia,Retail Partner,2022-12-15,Amazon,24190
-C0455,Cliente 455,Francia,Consumer,2024-12-15,Ecommerce,10063
-C0456,Cliente 456,Francia,Consumer,2022-08-02,Ecommerce,10539
-C0457,Cliente 457,Alemania,Professional,2023-03-17,Ecommerce,5854
-C0458,Cliente 458,España,Retail Partner,2025-05-08,Tiendas Propias,1574
-C0459,Cliente 459,España,Professional,2025-08-28,Amazon,24856
-C0460,Cliente 460,Alemania,Professional,2023-10-18,Amazon,21436
-C0461,Cliente 461,Francia,Retail Partner,2025-07-07,Tiendas Propias,21467
-C0462,Cliente 462,Francia,Retail Partner,2024-09-21,Tiendas Propias,24549
-C0463,Cliente 463,Alemania,Professional,2023-02-27,Tiendas Propias,9467
-C0464,Cliente 464,Alemania,Professional,2025-09-22,Amazon,4206
-C0465,Cliente 465,España,Retail Partner,2022-04-16,Tiendas Propias,1258
-C0466,Cliente 466,España,Consumer,2022-11-23,Retail Partners,22955
-C0467,Cliente 467,Alemania,Consumer,2022-09-17,Tiendas Propias,1832
-C0468,Cliente 468,Italia,Consumer,2025-05-02,Tiendas Propias,5177
-C0469,Cliente 469,Italia,Consumer,2024-02-25,Ecommerce,2775
-C0470,Cliente 470,Alemania,Retail Partner,2024-10-15,Ecommerce,23638
-C0471,Cliente 471,Alemania,Retail Partner,2026-05-13,Amazon,18261
-C0472,Cliente 472,Francia,Professional,2026-08-04,Retail Partners,22513
-C0473,Cliente 473,Alemania,Retail Partner,2023-04-16,Amazon,15401
-C0474,Cliente 474,Italia,Professional,2026-02-08,Amazon,17145
-C0475,Cliente 475,Alemania,Retail Partner,2026-03-26,Amazon,21821
-C0476,Cliente 476,España,Retail Partner,2025-08-20,Tiendas Propias,6729
-C0477,Cliente 477,Alemania,Consumer,2022-10-17,Amazon,5121
-C0478,Cliente 478,España,Retail Partner,2025-08-14,Tiendas Propias,15888
-C0479,Cliente 479,Francia,Retail Partner,2024-11-14,Retail Partners,18817
-C0480,Cliente 480,Francia,Retail Partner,2024-11-20,Ecommerce,4000
-C0481,Cliente 481,Italia,Consumer,2024-12-16,Tiendas Propias,10514
-C0482,Cliente 482,España,Professional,2022-12-04,Amazon,11162
-C0483,Cliente 483,Francia,Professional,2025-07-06,Ecommerce,23188
-C0484,Cliente 484,Alemania,Professional,2024-09-25,Tiendas Propias,5617
-C0485,Cliente 485,Francia,Consumer,2026-06-27,Amazon,19594
-C0486,Cliente 486,Italia,Consumer,2026-08-12,Amazon,3860
-C0487,Cliente 487,España,Consumer,2022-03-18,Retail Partners,24609
-C0488,Cliente 488,Francia,Professional,2022-04-23,Ecommerce,21603
-C0489,Cliente 489,Italia,Retail Partner,2022-04-15,Tiendas Propias,19373
-C0490,Cliente 490,Francia,Professional,2026-10-15,Ecommerce,21865
-C0491,Cliente 491,Francia,Professional,2026-06-17,Retail Partners,24274
-C0492,Cliente 492,Francia,Retail Partner,2025-11-02,Retail Partners,23312
-C0493,Cliente 493,Francia,Professional,2025-02-13,Amazon,790
-C0494,Cliente 494,Italia,Retail Partner,2022-01-07,Tiendas Propias,15539
-C0495,Cliente 495,Alemania,Consumer,2026-03-21,Tiendas Propias,6842
-C0496,Cliente 496,España,Retail Partner,2023-11-07,Amazon,11822
-C0497,Cliente 497,Italia,Professional,2023-12-02,Tiendas Propias,17303
-C0498,Cliente 498,Italia,Professional,2026-05-11,Tiendas Propias,24118
-C0499,Cliente 499,Alemania,Retail Partner,2022-04-24,Retail Partners,17254
-C0500,Cliente 500,Alemania,Retail Partner,2022-12-25,Ecommerce,20994
+﻿ClienteID,NombreCliente,TipoCliente,País,Segmento,TamañoCliente,CanalPreferido,Email,Teléfono,FechaAlta,ValorCliente
+C0001,Marco Rizzo,B2C,Italia,Consumer,Individual,Ecommerce,marco.rizzo@urbanstep-demo.com,+39 635 854 204,2026-12-18,2078
+C0002,Clara García,B2C,España,Consumer,Individual,Ecommerce,clara.garcia@urbanstep-demo.com,+34 659 617 716,2021-09-07,2041
+C0003,Martina Romano,B2C,Italia,Consumer,Individual,Ecommerce,martina.romano@urbanstep-demo.com,+39 601 877 925,2022-12-14,2528
+C0004,David Fernández,B2C,España,Consumer,Individual,Tiendas Propias,david.fernandez@urbanstep-demo.com,+34 626 194 489,2021-06-28,3007
+C0005,Pablo García,B2C,España,Consumer,Individual,Amazon,pablo.garcia@urbanstep-demo.com,+34 696 180 665,2023-11-20,1272
+C0006,Clara Koch,B2C,Alemania,Consumer,Individual,Ecommerce,clara.koch@urbanstep-demo.com,+49 611 777 333,2023-02-28,819
+C0007,Ana Sánchez,B2C,España,Consumer,Individual,Ecommerce,ana.sanchez@urbanstep-demo.com,+34 641 479 463,2022-11-09,3238
+C0008,Luca Costa,B2C,Italia,Consumer,Individual,Amazon,luca.costa@urbanstep-demo.com,+39 641 573 488,2023-11-23,2255
+C0009,Antoine Martin,B2C,Francia,Consumer,Individual,Ecommerce,antoine.martin@urbanstep-demo.com,+33 680 510 374,2021-04-19,512
+C0010,Jonas Fischer,B2C,Alemania,Consumer,Individual,Amazon,jonas.fischer@urbanstep-demo.com,+49 764 569 246,2023-03-08,3491
+C0011,Davide Rizzo,B2C,Italia,Consumer,Individual,Amazon,davide.rizzo@urbanstep-demo.com,+39 692 324 241,2025-08-03,3521
+C0012,Sofia Ferrari,B2C,Italia,Consumer,Individual,Amazon,sofia.ferrari@urbanstep-demo.com,+39 752 165 494,2024-10-15,3708
+C0013,Pierre Simon,B2C,Francia,Consumer,Individual,Amazon,pierre.simon@urbanstep-demo.com,+33 796 756 448,2021-05-14,2435
+C0014,Carlos Ruiz,B2C,España,Consumer,Individual,Tiendas Propias,carlos.ruiz@urbanstep-demo.com,+34 728 880 282,2025-02-28,2407
+C0015,Alessandro Ferrari,B2C,Italia,Consumer,Individual,Ecommerce,alessandro.ferrari@urbanstep-demo.com,+39 738 897 643,2021-10-11,1573
+C0016,Julie Petit,B2C,Francia,Consumer,Individual,Tiendas Propias,julie.petit@urbanstep-demo.com,+33 661 159 346,2025-02-03,2769
+C0017,Luca Gallo,B2C,Italia,Consumer,Individual,Amazon,luca.gallo@urbanstep-demo.com,+39 768 586 662,2022-05-17,1301
+C0018,Mia Fischer,B2C,Alemania,Consumer,Individual,Tiendas Propias,mia.fischer@urbanstep-demo.com,+49 782 419 508,2026-11-12,1897
+C0019,Louis Dubois,B2C,Francia,Consumer,Individual,Ecommerce,louis.dubois@urbanstep-demo.com,+33 686 121 702,2025-04-19,774
+C0020,Javier Ruiz,B2C,España,Consumer,Individual,Amazon,javier.ruiz@urbanstep-demo.com,+34 617 132 980,2023-02-17,2125
+C0021,Irene Fernández,B2C,España,Consumer,Individual,Ecommerce,irene.fernandez@urbanstep-demo.com,+34 662 903 584,2024-04-04,4122
+C0022,Clara Martínez,B2C,España,Consumer,Individual,Ecommerce,clara.martinez@urbanstep-demo.com,+34 786 155 789,2026-11-04,4075
+C0023,Raúl Rodríguez,B2C,España,Consumer,Individual,Ecommerce,raul.rodriguez@urbanstep-demo.com,+34 737 559 243,2024-03-09,1808
+C0024,Thomas Richard,B2C,Francia,Consumer,Individual,Amazon,thomas.richard@urbanstep-demo.com,+33 612 767 653,2021-02-25,1052
+C0025,Sophie Wagner,B2C,Alemania,Consumer,Individual,Ecommerce,sophie.wagner@urbanstep-demo.com,+49 702 160 268,2024-01-13,2001
+C0026,Miguel López,B2C,España,Consumer,Individual,Ecommerce,miguel.lopez@urbanstep-demo.com,+34 639 294 403,2022-01-19,4236
+C0027,Giulia Rizzo,B2C,Italia,Consumer,Individual,Ecommerce,giulia.rizzo@urbanstep-demo.com,+39 749 588 614,2025-03-02,660
+C0028,Lukas Weber,B2C,Alemania,Consumer,Individual,Ecommerce,lukas.weber@urbanstep-demo.com,+49 772 982 340,2024-02-19,806
+C0029,Marta Martín,B2C,España,Consumer,Individual,Ecommerce,marta.martin@urbanstep-demo.com,+34 666 309 785,2026-06-08,2841
+C0030,David Jiménez,B2C,España,Consumer,Individual,Amazon,david.jimenez@urbanstep-demo.com,+34 680 869 174,2021-08-20,3995
+C0031,Emma Schmidt,B2C,Alemania,Consumer,Individual,Ecommerce,emma.schmidt@urbanstep-demo.com,+49 667 235 457,2021-04-12,4394
+C0032,Miguel Gómez,B2C,España,Consumer,Individual,Amazon,miguel.gomez@urbanstep-demo.com,+34 770 936 667,2023-11-04,314
+C0033,Leon Hoffmann,B2C,Alemania,Consumer,Individual,Ecommerce,leon.hoffmann@urbanstep-demo.com,+49 790 666 259,2023-05-20,1126
+C0034,Raúl Fernández,B2C,España,Consumer,Individual,Amazon,raul.fernandez@urbanstep-demo.com,+34 729 600 357,2021-02-21,2412
+C0035,Hugo Martin,B2C,Francia,Consumer,Individual,Ecommerce,hugo.martin@urbanstep-demo.com,+33 763 368 265,2026-08-18,1321
+C0036,Marco Bianchi,B2C,Italia,Consumer,Individual,Ecommerce,marco.bianchi@urbanstep-demo.com,+39 739 136 954,2023-10-18,1471
+C0037,David García,B2C,España,Consumer,Individual,Ecommerce,david.garcia@urbanstep-demo.com,+34 691 315 798,2022-11-04,576
+C0038,Manon Leroy,B2C,Francia,Consumer,Individual,Amazon,manon.leroy@urbanstep-demo.com,+33 641 919 930,2022-07-01,2189
+C0039,Raúl Sánchez,B2C,España,Consumer,Individual,Amazon,raul.sanchez@urbanstep-demo.com,+34 668 263 906,2026-02-13,2282
+C0040,Lena Fischer,B2C,Alemania,Consumer,Individual,Ecommerce,lena.fischer@urbanstep-demo.com,+49 689 412 940,2022-04-01,4020
+C0041,Giovanni Marino,B2C,Italia,Consumer,Individual,Ecommerce,giovanni.marino@urbanstep-demo.com,+39 797 385 459,2026-09-13,818
+C0042,Andrea Rossi,B2C,Italia,Consumer,Individual,Ecommerce,andrea.rossi@urbanstep-demo.com,+39 645 694 371,2021-02-20,2389
+C0043,Antoine Robert,B2C,Francia,Consumer,Individual,Amazon,antoine.robert@urbanstep-demo.com,+33 629 494 690,2022-05-02,4439
+C0044,Marco Gallo,B2C,Italia,Consumer,Individual,Tiendas Propias,marco.gallo@urbanstep-demo.com,+39 693 541 171,2026-06-20,1864
+C0045,Ana Ruiz,B2C,España,Consumer,Individual,Tiendas Propias,ana.ruiz@urbanstep-demo.com,+34 679 782 518,2023-07-23,4404
+C0046,Clara Jiménez,B2C,España,Consumer,Individual,Tiendas Propias,clara.jimenez@urbanstep-demo.com,+34 757 682 408,2024-09-27,1675
+C0047,Lucía Fernández,B2C,España,Consumer,Individual,Ecommerce,lucia.fernandez@urbanstep-demo.com,+34 719 552 552,2026-04-17,2889
+C0048,Camille Simon,B2C,Francia,Consumer,Individual,Ecommerce,camille.simon@urbanstep-demo.com,+33 769 748 734,2023-02-27,4472
+C0049,Marie Richter,B2C,Alemania,Consumer,Individual,Ecommerce,marie.richter@urbanstep-demo.com,+49 637 125 147,2022-08-20,1881
+C0050,Lukas Becker,B2C,Alemania,Consumer,Individual,Ecommerce,lukas.becker@urbanstep-demo.com,+49 783 813 493,2024-07-08,1842
+C0051,Carlos Rodríguez,B2C,España,Consumer,Individual,Amazon,carlos.rodriguez@urbanstep-demo.com,+34 645 923 812,2025-08-02,2042
+C0052,Julie Richard,B2C,Francia,Consumer,Individual,Ecommerce,julie.richard@urbanstep-demo.com,+33 770 643 672,2025-06-25,4056
+C0053,Mia Schulz,B2C,Alemania,Consumer,Individual,Ecommerce,mia.schulz@urbanstep-demo.com,+49 790 982 586,2024-05-25,1553
+C0054,Pablo Gómez,B2C,España,Consumer,Individual,Ecommerce,pablo.gomez@urbanstep-demo.com,+34 670 550 179,2026-05-08,2209
+C0055,Raúl Gómez,B2C,España,Consumer,Individual,Ecommerce,raul.gomez@urbanstep-demo.com,+34 659 492 810,2022-12-07,1485
+C0056,Miguel Sánchez,B2C,España,Consumer,Individual,Ecommerce,miguel.sanchez@urbanstep-demo.com,+34 699 888 698,2026-01-28,3691
+C0057,Paul Becker,B2C,Alemania,Consumer,Individual,Ecommerce,paul.becker@urbanstep-demo.com,+49 676 871 499,2024-09-24,3131
+C0058,Chiara Conti,B2C,Italia,Consumer,Individual,Ecommerce,chiara.conti@urbanstep-demo.com,+39 724 129 498,2023-11-22,3820
+C0059,Francesca Conti,B2C,Italia,Consumer,Individual,Tiendas Propias,francesca.conti@urbanstep-demo.com,+39 700 706 677,2026-01-03,470
+C0060,Matteo Conti,B2C,Italia,Consumer,Individual,Ecommerce,matteo.conti@urbanstep-demo.com,+39 697 435 316,2024-06-11,2381
+C0061,Giovanni Ricci,B2C,Italia,Consumer,Individual,Amazon,giovanni.ricci@urbanstep-demo.com,+39 664 954 183,2024-01-24,3703
+C0062,Claire Laurent,B2C,Francia,Consumer,Individual,Amazon,claire.laurent@urbanstep-demo.com,+33 793 131 353,2022-01-20,579
+C0063,David Pérez,B2C,España,Consumer,Individual,Amazon,david.perez@urbanstep-demo.com,+34 719 816 362,2023-03-20,2035
+C0064,Elena Bianchi,B2C,Italia,Consumer,Individual,Amazon,elena.bianchi@urbanstep-demo.com,+39 747 793 484,2024-12-07,2805
+C0065,Elena Rodríguez,B2C,España,Consumer,Individual,Amazon,elena.rodriguez@urbanstep-demo.com,+34 775 714 924,2021-10-26,2720
+C0066,Nuria Rodríguez,B2C,España,Consumer,Individual,Ecommerce,nuria.rodriguez@urbanstep-demo.com,+34 603 969 530,2024-02-14,3045
+C0067,Tim Klein,B2C,Alemania,Consumer,Individual,Ecommerce,tim.klein@urbanstep-demo.com,+49 787 634 766,2023-10-26,1692
+C0068,Lena Becker,B2C,Alemania,Consumer,Individual,Ecommerce,lena.becker@urbanstep-demo.com,+49 682 972 351,2021-05-15,2448
+C0069,Miguel Martín,B2C,España,Consumer,Individual,Amazon,miguel.martin@urbanstep-demo.com,+34 686 129 606,2023-03-16,3354
+C0070,Pablo Martínez,B2C,España,Consumer,Individual,Ecommerce,pablo.martinez@urbanstep-demo.com,+34 742 110 629,2022-02-08,2513
+C0071,Sara Gallo,B2C,Italia,Consumer,Individual,Amazon,sara.gallo@urbanstep-demo.com,+39 765 828 602,2024-01-03,4150
+C0072,Alberto Ruiz,B2C,España,Consumer,Individual,Ecommerce,alberto.ruiz@urbanstep-demo.com,+34 721 666 643,2023-07-24,3273
+C0073,Claire Michel,B2C,Francia,Consumer,Individual,Ecommerce,claire.michel@urbanstep-demo.com,+33 664 336 223,2026-04-11,2761
+C0074,Laura Fernández,B2C,España,Consumer,Individual,Ecommerce,laura.fernandez@urbanstep-demo.com,+34 670 841 703,2025-10-10,4216
+C0075,Max Hoffmann,B2C,Alemania,Consumer,Individual,Ecommerce,max.hoffmann@urbanstep-demo.com,+49 677 114 825,2025-03-09,1719
+C0076,Marta Gómez,B2C,España,Consumer,Individual,Ecommerce,marta.gomez@urbanstep-demo.com,+34 763 989 870,2024-02-28,1284
+C0077,Lucía Pérez,B2C,España,Consumer,Individual,Ecommerce,lucia.perez@urbanstep-demo.com,+34 647 152 358,2024-02-27,3041
+C0078,Irene Rodríguez,B2C,España,Consumer,Individual,Amazon,irene.rodriguez@urbanstep-demo.com,+34 638 252 930,2025-05-03,689
+C0079,Emma Schulz,B2C,Alemania,Consumer,Individual,Amazon,emma.schulz@urbanstep-demo.com,+49 798 635 489,2024-08-10,2098
+C0080,Mia Hoffmann,B2C,Alemania,Consumer,Individual,Amazon,mia.hoffmann@urbanstep-demo.com,+49 756 857 201,2022-11-07,743
+C0081,Javier González,B2C,España,Consumer,Individual,Ecommerce,javier.gonzalez@urbanstep-demo.com,+34 640 102 518,2024-12-20,864
+C0082,Sophie Laurent,B2C,Francia,Consumer,Individual,Ecommerce,sophie.laurent@urbanstep-demo.com,+33 779 980 564,2021-11-08,2566
+C0083,Max Wagner,B2C,Alemania,Consumer,Individual,Ecommerce,max.wagner@urbanstep-demo.com,+49 765 252 372,2022-02-02,2091
+C0084,Lucía Martín,B2C,España,Consumer,Individual,Amazon,lucia.martin@urbanstep-demo.com,+34 712 227 579,2026-05-23,2614
+C0085,Hugo Durand,B2C,Francia,Consumer,Individual,Ecommerce,hugo.durand@urbanstep-demo.com,+33 620 712 140,2024-12-11,3836
+C0086,Chiara Bruno,B2C,Italia,Consumer,Individual,Amazon,chiara.bruno@urbanstep-demo.com,+39 795 788 941,2023-10-02,419
+C0087,Lorenzo Ricci,B2C,Italia,Consumer,Individual,Ecommerce,lorenzo.ricci@urbanstep-demo.com,+39 762 933 603,2021-08-12,3820
+C0088,Antoine Simon,B2C,Francia,Consumer,Individual,Ecommerce,antoine.simon@urbanstep-demo.com,+33 684 521 810,2024-05-22,1567
+C0089,Anna Becker,B2C,Alemania,Consumer,Individual,Ecommerce,anna.becker@urbanstep-demo.com,+49 682 218 891,2024-09-27,2317
+C0090,Tim Wagner,B2C,Alemania,Consumer,Individual,Ecommerce,tim.wagner@urbanstep-demo.com,+49 692 737 874,2024-11-15,4497
+C0091,Alessandro Ricci,B2C,Italia,Consumer,Individual,Ecommerce,alessandro.ricci@urbanstep-demo.com,+39 712 815 596,2021-01-21,2609
+C0092,Chiara Rizzo,B2C,Italia,Consumer,Individual,Ecommerce,chiara.rizzo@urbanstep-demo.com,+39 741 517 195,2022-02-15,362
+C0093,Leon Becker,B2C,Alemania,Consumer,Individual,Tiendas Propias,leon.becker@urbanstep-demo.com,+49 730 822 379,2024-08-16,2640
+C0094,David Sánchez,B2C,España,Consumer,Individual,Ecommerce,david.sanchez@urbanstep-demo.com,+34 791 239 984,2021-05-25,4413
+C0095,Martina Marino,B2C,Italia,Consumer,Individual,Tiendas Propias,martina.marino@urbanstep-demo.com,+39 668 940 102,2023-12-10,4409
+C0096,Lena Weber,B2C,Alemania,Consumer,Individual,Ecommerce,lena.weber@urbanstep-demo.com,+49 688 440 665,2025-07-15,4217
+C0097,Max Klein,B2C,Alemania,Consumer,Individual,Ecommerce,max.klein@urbanstep-demo.com,+49 659 976 894,2024-01-11,3387
+C0098,Giovanni Greco,B2C,Italia,Consumer,Individual,Tiendas Propias,giovanni.greco@urbanstep-demo.com,+39 726 137 229,2025-10-11,1496
+C0099,Tim Schmidt,B2C,Alemania,Consumer,Individual,Ecommerce,tim.schmidt@urbanstep-demo.com,+49 603 839 247,2024-11-05,3993
+C0100,Alberto Jiménez,B2C,España,Consumer,Individual,Ecommerce,alberto.jimenez@urbanstep-demo.com,+34 772 979 646,2024-06-21,2941
+C0101,Giulia Costa,B2C,Italia,Consumer,Individual,Ecommerce,giulia.costa@urbanstep-demo.com,+39 658 864 192,2024-02-25,2604
+C0102,Sofia Conti,B2C,Italia,Consumer,Individual,Ecommerce,sofia.conti@urbanstep-demo.com,+39 607 147 432,2021-05-12,2703
+C0103,Nicolas Laurent,B2C,Francia,Consumer,Individual,Ecommerce,nicolas.laurent@urbanstep-demo.com,+33 643 279 180,2025-07-20,1725
+C0104,Sara Costa,B2C,Italia,Consumer,Individual,Ecommerce,sara.costa@urbanstep-demo.com,+39 763 360 570,2023-11-01,4027
+C0105,Tim Hoffmann,B2C,Alemania,Consumer,Individual,Amazon,tim.hoffmann@urbanstep-demo.com,+49 618 552 453,2025-05-21,1544
+C0106,Felix Becker,B2C,Alemania,Consumer,Individual,Amazon,felix.becker@urbanstep-demo.com,+49 698 973 594,2021-04-13,1881
+C0107,Chloé Michel,B2C,Francia,Consumer,Individual,Ecommerce,chloe.michel@urbanstep-demo.com,+33 670 108 679,2026-12-02,3492
+C0108,Lena Hoffmann,B2C,Alemania,Consumer,Individual,Amazon,lena.hoffmann@urbanstep-demo.com,+49 755 921 460,2022-11-07,2135
+C0109,Matteo Bruno,B2C,Italia,Consumer,Individual,Ecommerce,matteo.bruno@urbanstep-demo.com,+39 679 907 551,2021-10-12,572
+C0110,Luca Ricci,B2C,Italia,Consumer,Individual,Ecommerce,luca.ricci@urbanstep-demo.com,+39 644 305 235,2025-06-17,3653
+C0111,Hugo Bernard,B2C,Francia,Consumer,Individual,Ecommerce,hugo.bernard@urbanstep-demo.com,+33 675 864 991,2023-02-15,4197
+C0112,Leon Fischer,B2C,Alemania,Consumer,Individual,Tiendas Propias,leon.fischer@urbanstep-demo.com,+49 742 474 192,2024-01-09,3505
+C0113,Louis Petit,B2C,Francia,Consumer,Individual,Amazon,louis.petit@urbanstep-demo.com,+33 749 490 942,2026-06-04,2397
+C0114,Sara Rossi,B2C,Italia,Consumer,Individual,Amazon,sara.rossi@urbanstep-demo.com,+39 756 326 763,2021-11-27,2937
+C0115,Chloé Simon,B2C,Francia,Consumer,Individual,Ecommerce,chloe.simon@urbanstep-demo.com,+33 611 138 411,2024-02-04,1395
+C0116,Miguel Martínez,B2C,España,Consumer,Individual,Amazon,miguel.martinez@urbanstep-demo.com,+34 750 860 844,2022-07-21,3683
+C0117,Irene Martín,B2C,España,Consumer,Individual,Ecommerce,irene.martin@urbanstep-demo.com,+34 608 806 479,2022-08-15,2541
+C0118,Clara Schmidt,B2C,Alemania,Consumer,Individual,Tiendas Propias,clara.schmidt@urbanstep-demo.com,+49 739 760 467,2021-07-09,3259
+C0119,Ana Pérez,B2C,España,Consumer,Individual,Ecommerce,ana.perez@urbanstep-demo.com,+34 764 754 711,2021-01-26,1987
+C0120,David Martín,B2C,España,Consumer,Individual,Ecommerce,david.martin@urbanstep-demo.com,+34 750 321 932,2022-06-25,1947
+C0121,Carlos López,B2C,España,Consumer,Individual,Tiendas Propias,carlos.lopez@urbanstep-demo.com,+34 633 653 356,2022-02-22,1435
+C0122,Leon Müller,B2C,Alemania,Consumer,Individual,Ecommerce,leon.muller@urbanstep-demo.com,+49 750 431 116,2022-05-02,2199
+C0123,Clara Gómez,B2C,España,Consumer,Individual,Ecommerce,clara.gomez@urbanstep-demo.com,+34 721 559 896,2023-09-19,770
+C0124,Elena Martín,B2C,España,Consumer,Individual,Ecommerce,elena.martin@urbanstep-demo.com,+34 717 758 131,2021-08-28,2720
+C0125,Thomas Petit,B2C,Francia,Consumer,Individual,Amazon,thomas.petit@urbanstep-demo.com,+33 632 381 739,2026-10-18,788
+C0126,Giovanni Costa,B2C,Italia,Consumer,Individual,Ecommerce,giovanni.costa@urbanstep-demo.com,+39 729 719 540,2021-12-04,3966
+C0127,Tim Fischer,B2C,Alemania,Consumer,Individual,Ecommerce,tim.fischer@urbanstep-demo.com,+49 702 525 847,2021-06-14,3965
+C0128,Javier Rodríguez,B2C,España,Consumer,Individual,Ecommerce,javier.rodriguez@urbanstep-demo.com,+34 790 856 481,2022-09-02,1041
+C0129,Julie Robert,B2C,Francia,Consumer,Individual,Ecommerce,julie.robert@urbanstep-demo.com,+33 784 152 394,2025-05-12,3714
+C0130,Sergio González,B2C,España,Consumer,Individual,Amazon,sergio.gonzalez@urbanstep-demo.com,+34 627 458 965,2025-06-04,2087
+C0131,Chiara Greco,B2C,Italia,Consumer,Individual,Amazon,chiara.greco@urbanstep-demo.com,+39 755 773 949,2026-05-01,465
+C0132,Lucía Martínez,B2C,España,Consumer,Individual,Ecommerce,lucia.martinez@urbanstep-demo.com,+34 636 679 773,2024-02-05,1736
+C0133,Alessandro Greco,B2C,Italia,Consumer,Individual,Ecommerce,alessandro.greco@urbanstep-demo.com,+39 640 478 419,2026-06-25,3042
+C0134,Lukas Müller,B2C,Alemania,Consumer,Individual,Ecommerce,lukas.muller@urbanstep-demo.com,+49 772 183 378,2024-11-14,657
+C0135,Louis Robert,B2C,Francia,Consumer,Individual,Ecommerce,louis.robert@urbanstep-demo.com,+33 629 453 540,2021-05-22,4447
+C0136,Elena Rossi,B2C,Italia,Consumer,Individual,Ecommerce,elena.rossi@urbanstep-demo.com,+39 601 309 408,2022-03-25,698
+C0137,Carlos Pérez,B2C,España,Consumer,Individual,Amazon,carlos.perez@urbanstep-demo.com,+34 633 489 645,2026-04-17,1689
+C0138,Claire Dubois,B2C,Francia,Consumer,Individual,Ecommerce,claire.dubois@urbanstep-demo.com,+33 711 119 570,2021-06-19,596
+C0139,Julien Michel,B2C,Francia,Consumer,Individual,Amazon,julien.michel@urbanstep-demo.com,+33 629 514 121,2023-03-26,2621
+C0140,Mia Schmidt,B2C,Alemania,Consumer,Individual,Ecommerce,mia.schmidt@urbanstep-demo.com,+49 734 180 505,2023-12-11,3530
+C0141,Laura Rodríguez,B2C,España,Consumer,Individual,Ecommerce,laura.rodriguez@urbanstep-demo.com,+34 735 622 298,2023-06-24,1184
+C0142,Emma Weber,B2C,Alemania,Consumer,Individual,Ecommerce,emma.weber@urbanstep-demo.com,+49 754 256 878,2026-02-06,1671
+C0143,Tim Richter,B2C,Alemania,Consumer,Individual,Tiendas Propias,tim.richter@urbanstep-demo.com,+49 760 423 254,2024-02-16,2897
+C0144,Chloé Moreau,B2C,Francia,Consumer,Individual,Amazon,chloe.moreau@urbanstep-demo.com,+33 729 175 417,2024-08-02,3133
+C0145,Lucía Rodríguez,B2C,España,Consumer,Individual,Amazon,lucia.rodriguez@urbanstep-demo.com,+34 757 708 619,2024-08-19,989
+C0146,Sophie Richard,B2C,Francia,Consumer,Individual,Tiendas Propias,sophie.richard@urbanstep-demo.com,+33 682 719 587,2025-03-02,1792
+C0147,Antoine Michel,B2C,Francia,Consumer,Individual,Ecommerce,antoine.michel@urbanstep-demo.com,+33 610 353 824,2024-08-17,1663
+C0148,Camille Petit,B2C,Francia,Consumer,Individual,Ecommerce,camille.petit@urbanstep-demo.com,+33 699 518 893,2023-11-20,2567
+C0149,Alberto López,B2C,España,Consumer,Individual,Ecommerce,alberto.lopez@urbanstep-demo.com,+34 685 183 696,2026-03-12,1481
+C0150,Alberto González,B2C,España,Consumer,Individual,Amazon,alberto.gonzalez@urbanstep-demo.com,+34 679 672 485,2026-06-27,944
+C0151,Javier Jiménez,B2C,España,Consumer,Individual,Amazon,javier.jimenez@urbanstep-demo.com,+34 692 118 471,2023-03-07,4415
+C0152,Elena González,B2C,España,Consumer,Individual,Ecommerce,elena.gonzalez@urbanstep-demo.com,+34 625 619 889,2025-12-17,2673
+C0153,Raúl Martín,B2C,España,Consumer,Individual,Ecommerce,raul.martin@urbanstep-demo.com,+34 639 266 285,2026-10-26,3336
+C0154,Tim Müller,B2C,Alemania,Consumer,Individual,Ecommerce,tim.muller@urbanstep-demo.com,+49 713 725 391,2026-08-08,2195
+C0155,Chloé Richard,B2C,Francia,Consumer,Individual,Tiendas Propias,chloe.richard@urbanstep-demo.com,+33 694 794 684,2024-08-25,1839
+C0156,Alberto Gómez,B2C,España,Consumer,Individual,Ecommerce,alberto.gomez@urbanstep-demo.com,+34 651 920 719,2022-05-02,1577
+C0157,Valentina Gallo,B2C,Italia,Consumer,Individual,Tiendas Propias,valentina.gallo@urbanstep-demo.com,+39 631 391 185,2022-05-15,4476
+C0158,Leon Wagner,B2C,Alemania,Consumer,Individual,Ecommerce,leon.wagner@urbanstep-demo.com,+49 715 457 127,2024-01-13,2068
+C0159,Emma Robert,B2C,Francia,Consumer,Individual,Tiendas Propias,emma.robert@urbanstep-demo.com,+33 657 128 426,2021-12-21,3321
+C0160,David González,B2C,España,Consumer,Individual,Ecommerce,david.gonzalez@urbanstep-demo.com,+34 778 951 242,2026-08-15,4120
+C0161,Luca Rossi,B2C,Italia,Consumer,Individual,Ecommerce,luca.rossi@urbanstep-demo.com,+39 740 844 723,2025-07-04,1474
+C0162,Chiara Ricci,B2C,Italia,Consumer,Individual,Ecommerce,chiara.ricci@urbanstep-demo.com,+39 707 754 912,2025-08-03,2203
+C0163,Carlos Jiménez,B2C,España,Consumer,Individual,Ecommerce,carlos.jimenez@urbanstep-demo.com,+34 783 247 398,2024-01-20,2231
+C0164,Manon Bernard,B2C,Francia,Consumer,Individual,Amazon,manon.bernard@urbanstep-demo.com,+33 734 469 169,2025-09-17,951
+C0165,Marco Greco,B2C,Italia,Consumer,Individual,Tiendas Propias,marco.greco@urbanstep-demo.com,+39 762 496 482,2023-12-01,606
+C0166,Emma Michel,B2C,Francia,Consumer,Individual,Amazon,emma.michel@urbanstep-demo.com,+33 797 695 852,2023-03-02,1099
+C0167,Louis Michel,B2C,Francia,Consumer,Individual,Ecommerce,louis.michel@urbanstep-demo.com,+33 634 164 833,2024-01-10,1743
+C0168,Sergio García,B2C,España,Consumer,Individual,Ecommerce,sergio.garcia@urbanstep-demo.com,+34 731 507 934,2025-08-09,2790
+C0169,Sergio López,B2C,España,Consumer,Individual,Ecommerce,sergio.lopez@urbanstep-demo.com,+34 767 439 379,2021-06-14,641
+C0170,Jonas Weber,B2C,Alemania,Consumer,Individual,Ecommerce,jonas.weber@urbanstep-demo.com,+49 694 916 631,2023-02-24,4325
+C0171,Camille Durand,B2C,Francia,Consumer,Individual,Ecommerce,camille.durand@urbanstep-demo.com,+33 620 435 776,2023-05-15,1090
+C0172,Martina Ferrari,B2C,Italia,Consumer,Individual,Amazon,martina.ferrari@urbanstep-demo.com,+39 714 143 844,2023-10-14,3129
+C0173,Marta Rodríguez,B2C,España,Consumer,Individual,Amazon,marta.rodriguez@urbanstep-demo.com,+34 693 625 920,2026-11-06,3577
+C0174,Leon Koch,B2C,Alemania,Consumer,Individual,Amazon,leon.koch@urbanstep-demo.com,+49 608 229 168,2022-11-12,3839
+C0175,Sophie Leroy,B2C,Francia,Consumer,Individual,Ecommerce,sophie.leroy@urbanstep-demo.com,+33 694 480 554,2021-10-05,3935
+C0176,Julien Petit,B2C,Francia,Consumer,Individual,Amazon,julien.petit@urbanstep-demo.com,+33 629 126 853,2022-08-17,2294
+C0177,Julie Moreau,B2C,Francia,Consumer,Individual,Amazon,julie.moreau@urbanstep-demo.com,+33 654 726 392,2026-08-07,3905
+C0178,Javier Pérez,B2C,España,Consumer,Individual,Ecommerce,javier.perez@urbanstep-demo.com,+34 622 929 798,2023-11-12,3896
+C0179,Elena Ricci,B2C,Italia,Consumer,Individual,Tiendas Propias,elena.ricci@urbanstep-demo.com,+39 692 620 329,2021-04-26,1676
+C0180,Irene García,B2C,España,Consumer,Individual,Ecommerce,irene.garcia@urbanstep-demo.com,+34 719 922 664,2022-10-03,3272
+C0181,Irene Gómez,B2C,España,Consumer,Individual,Ecommerce,irene.gomez@urbanstep-demo.com,+34 747 175 228,2023-11-03,3604
+C0182,Claire Bernard,B2C,Francia,Consumer,Individual,Tiendas Propias,claire.bernard@urbanstep-demo.com,+33 796 232 543,2025-01-27,1740
+C0183,David López,B2C,España,Consumer,Individual,Ecommerce,david.lopez@urbanstep-demo.com,+34 781 330 454,2025-05-28,2893
+C0184,Sergio Jiménez,B2C,España,Consumer,Individual,Tiendas Propias,sergio.jimenez@urbanstep-demo.com,+34 632 740 410,2025-09-03,2498
+C0185,Camille Leroy,B2C,Francia,Consumer,Individual,Tiendas Propias,camille.leroy@urbanstep-demo.com,+33 643 774 739,2026-10-11,1513
+C0186,Anna Müller,B2C,Alemania,Consumer,Individual,Ecommerce,anna.muller@urbanstep-demo.com,+49 766 315 885,2025-07-20,2418
+C0187,Sara Bruno,B2C,Italia,Consumer,Individual,Ecommerce,sara.bruno@urbanstep-demo.com,+39 723 350 924,2026-07-10,2724
+C0188,Sophie Bernard,B2C,Francia,Consumer,Individual,Ecommerce,sophie.bernard@urbanstep-demo.com,+33 718 308 448,2025-03-11,4216
+C0189,Jonas Klein,B2C,Alemania,Consumer,Individual,Tiendas Propias,jonas.klein@urbanstep-demo.com,+49 702 233 878,2023-09-18,3079
+C0190,Elena Pérez,B2C,España,Consumer,Individual,Ecommerce,elena.perez@urbanstep-demo.com,+34 663 244 199,2021-05-13,3933
+C0191,Sophie Schneider,B2C,Alemania,Consumer,Individual,Tiendas Propias,sophie.schneider@urbanstep-demo.com,+49 648 881 263,2024-09-15,2811
+C0192,Pierre Dubois,B2C,Francia,Consumer,Individual,Tiendas Propias,pierre.dubois@urbanstep-demo.com,+33 717 346 320,2025-06-02,4390
+C0193,Irene López,B2C,España,Consumer,Individual,Ecommerce,irene.lopez@urbanstep-demo.com,+34 710 237 370,2026-06-25,1130
+C0194,Sophie Robert,B2C,Francia,Consumer,Individual,Ecommerce,sophie.robert@urbanstep-demo.com,+33 692 666 395,2021-07-17,1844
+C0195,Hugo Leroy,B2C,Francia,Consumer,Individual,Amazon,hugo.leroy@urbanstep-demo.com,+33 632 199 503,2023-06-18,1223
+C0196,Paul Schulz,B2C,Alemania,Consumer,Individual,Ecommerce,paul.schulz@urbanstep-demo.com,+49 635 830 441,2024-09-15,568
+C0197,David Martínez,B2C,España,Consumer,Individual,Tiendas Propias,david.martinez@urbanstep-demo.com,+34 641 502 731,2026-05-19,2859
+C0198,Irene Ruiz,B2C,España,Consumer,Individual,Amazon,irene.ruiz@urbanstep-demo.com,+34 604 477 439,2026-02-14,4140
+C0199,Pierre Leroy,B2C,Francia,Consumer,Individual,Ecommerce,pierre.leroy@urbanstep-demo.com,+33 784 152 697,2024-03-17,2114
+C0200,Giovanni Ferrari,B2C,Italia,Consumer,Individual,Amazon,giovanni.ferrari@urbanstep-demo.com,+39 608 686 817,2021-04-01,2234
+C0201,Manon Michel,B2C,Francia,Consumer,Individual,Ecommerce,manon.michel@urbanstep-demo.com,+33 798 726 582,2026-12-02,4360
+C0202,Alessandro Gallo,B2C,Italia,Consumer,Individual,Ecommerce,alessandro.gallo@urbanstep-demo.com,+39 734 485 421,2022-08-18,4168
+C0203,Nuria Jiménez,B2C,España,Consumer,Individual,Amazon,nuria.jimenez@urbanstep-demo.com,+34 756 595 296,2022-05-18,2415
+C0204,Lucía López,B2C,España,Consumer,Individual,Amazon,lucia.lopez@urbanstep-demo.com,+34 681 591 457,2025-12-09,4255
+C0205,Alberto Sánchez,B2C,España,Consumer,Individual,Amazon,alberto.sanchez@urbanstep-demo.com,+34 674 143 394,2026-02-12,1449
+C0206,Felix Klein,B2C,Alemania,Consumer,Individual,Ecommerce,felix.klein@urbanstep-demo.com,+49 737 377 675,2026-05-05,1905
+C0207,Elena Fernández,B2C,España,Consumer,Individual,Ecommerce,elena.fernandez@urbanstep-demo.com,+34 763 338 153,2021-07-11,2098
+C0208,Sofia Bruno,B2C,Italia,Consumer,Individual,Amazon,sofia.bruno@urbanstep-demo.com,+39 740 261 516,2026-08-16,292
+C0209,Elena Marino,B2C,Italia,Consumer,Individual,Ecommerce,elena.marino@urbanstep-demo.com,+39 796 191 767,2025-04-18,734
+C0210,Giulia Ferrari,B2C,Italia,Consumer,Individual,Ecommerce,giulia.ferrari@urbanstep-demo.com,+39 609 956 506,2024-03-24,1690
+C0211,Laura Müller,B2C,Alemania,Consumer,Individual,Ecommerce,laura.muller@urbanstep-demo.com,+49 685 391 565,2026-09-17,1129
+C0212,Nicolas Durand,B2C,Francia,Consumer,Individual,Ecommerce,nicolas.durand@urbanstep-demo.com,+33 628 438 266,2026-08-21,1829
+C0213,Laura García,B2C,España,Consumer,Individual,Amazon,laura.garcia@urbanstep-demo.com,+34 745 790 875,2022-03-20,2666
+C0214,Paul Wagner,B2C,Alemania,Consumer,Individual,Ecommerce,paul.wagner@urbanstep-demo.com,+49 702 785 197,2022-03-16,960
+C0215,Elena García,B2C,España,Consumer,Individual,Ecommerce,elena.garcia@urbanstep-demo.com,+34 714 871 373,2023-05-19,2179
+C0216,Marco Ricci,B2C,Italia,Consumer,Individual,Amazon,marco.ricci@urbanstep-demo.com,+39 615 783 221,2024-05-06,2185
+C0217,Julie Simon,B2C,Francia,Consumer,Individual,Tiendas Propias,julie.simon@urbanstep-demo.com,+33 694 729 326,2022-03-16,2666
+C0218,Nuria Sánchez,B2C,España,Consumer,Individual,Amazon,nuria.sanchez@urbanstep-demo.com,+34 793 650 921,2026-04-25,4107
+C0219,Javier Gómez,B2C,España,Consumer,Individual,Ecommerce,javier.gomez@urbanstep-demo.com,+34 619 677 214,2021-09-17,3213
+C0220,Miguel Rodríguez,B2C,España,Consumer,Individual,Amazon,miguel.rodriguez@urbanstep-demo.com,+34 623 622 556,2021-08-05,4254
+C0221,Louis Leroy,B2C,Francia,Consumer,Individual,Ecommerce,louis.leroy@urbanstep-demo.com,+33 772 926 415,2026-01-13,4037
+C0222,Sergio Martín,B2C,España,Consumer,Individual,Ecommerce,sergio.martin@urbanstep-demo.com,+34 688 817 165,2025-01-03,3720
+C0223,Lena Müller,B2C,Alemania,Consumer,Individual,Ecommerce,lena.muller@urbanstep-demo.com,+49 796 238 884,2026-12-21,1724
+C0224,Clara Wagner,B2C,Alemania,Consumer,Individual,Ecommerce,clara.wagner@urbanstep-demo.com,+49 696 182 799,2026-09-05,3342
+C0225,Valentina Bianchi,B2C,Italia,Consumer,Individual,Ecommerce,valentina.bianchi@urbanstep-demo.com,+39 735 230 845,2022-01-25,3469
+C0226,Alberto Fernández,B2C,España,Consumer,Individual,Ecommerce,alberto.fernandez@urbanstep-demo.com,+34 639 382 293,2026-02-02,3085
+C0227,Mia Koch,B2C,Alemania,Consumer,Individual,Amazon,mia.koch@urbanstep-demo.com,+49 661 311 168,2021-10-02,378
+C0228,Louis Laurent,B2C,Francia,Consumer,Individual,Ecommerce,louis.laurent@urbanstep-demo.com,+33 635 615 396,2022-12-19,712
+C0229,Lucía González,B2C,España,Consumer,Individual,Tiendas Propias,lucia.gonzalez@urbanstep-demo.com,+34 705 407 381,2021-09-19,2060
+C0230,Sophie Richter,B2C,Alemania,Consumer,Individual,Amazon,sophie.richter@urbanstep-demo.com,+49 612 452 758,2026-07-26,4310
+C0231,Manon Robert,B2C,Francia,Consumer,Individual,Ecommerce,manon.robert@urbanstep-demo.com,+33 647 872 650,2024-04-28,3333
+C0232,Clara Sánchez,B2C,España,Consumer,Individual,Amazon,clara.sanchez@urbanstep-demo.com,+34 699 348 361,2022-06-21,1348
+C0233,Pablo Sánchez,B2C,España,Consumer,Individual,Amazon,pablo.sanchez@urbanstep-demo.com,+34 618 292 923,2025-12-22,573
+C0234,Laura Laurent,B2C,Francia,Consumer,Individual,Tiendas Propias,laura.laurent@urbanstep-demo.com,+33 677 115 316,2022-12-04,2977
+C0235,Sara Romano,B2C,Italia,Consumer,Individual,Amazon,sara.romano@urbanstep-demo.com,+39 701 345 665,2023-05-13,1925
+C0236,Claire Moreau,B2C,Francia,Consumer,Individual,Ecommerce,claire.moreau@urbanstep-demo.com,+33 727 577 200,2026-08-25,4450
+C0237,Max Schneider,B2C,Alemania,Consumer,Individual,Ecommerce,max.schneider@urbanstep-demo.com,+49 744 984 326,2026-03-01,624
+C0238,Clara López,B2C,España,Consumer,Individual,Ecommerce,clara.lopez@urbanstep-demo.com,+34 658 488 683,2022-08-18,2952
+C0239,Andrea Ricci,B2C,Italia,Consumer,Individual,Amazon,andrea.ricci@urbanstep-demo.com,+39 785 757 857,2024-08-06,4252
+C0240,Valentina Ferrari,B2C,Italia,Consumer,Individual,Ecommerce,valentina.ferrari@urbanstep-demo.com,+39 647 655 757,2021-09-02,4250
+C0241,Lukas Richter,B2C,Alemania,Consumer,Individual,Ecommerce,lukas.richter@urbanstep-demo.com,+49 705 240 962,2026-04-03,302
+C0242,Marco Romano,B2C,Italia,Consumer,Individual,Ecommerce,marco.romano@urbanstep-demo.com,+39 615 732 753,2026-10-16,3307
+C0243,Marco Rossi,B2C,Italia,Consumer,Individual,Ecommerce,marco.rossi@urbanstep-demo.com,+39 603 117 642,2026-05-18,3619
+C0244,Thomas Schulz,B2C,Alemania,Consumer,Individual,Amazon,thomas.schulz@urbanstep-demo.com,+49 645 209 198,2025-03-08,3777
+C0245,Javier Martínez,B2C,España,Consumer,Individual,Tiendas Propias,javier.martinez@urbanstep-demo.com,+34 744 349 813,2022-05-22,4010
+C0246,Anna Schmidt,B2C,Alemania,Consumer,Individual,Ecommerce,anna.schmidt@urbanstep-demo.com,+49 741 587 157,2026-01-23,3339
+C0247,Irene Sánchez,B2C,España,Consumer,Individual,Amazon,irene.sanchez@urbanstep-demo.com,+34 744 978 197,2025-01-08,2963
+C0248,Marta González,B2C,España,Consumer,Individual,Tiendas Propias,marta.gonzalez@urbanstep-demo.com,+34 604 312 701,2022-12-27,2826
+C0249,Thomas Moreau,B2C,Francia,Consumer,Individual,Ecommerce,thomas.moreau@urbanstep-demo.com,+33 745 954 969,2024-11-18,2219
+C0250,David Ruiz,B2C,España,Consumer,Individual,Amazon,david.ruiz@urbanstep-demo.com,+34 790 454 154,2021-07-08,4352
+C0251,Jonas Koch,B2C,Alemania,Consumer,Individual,Amazon,jonas.koch@urbanstep-demo.com,+49 798 434 130,2026-05-26,3499
+C0252,Clara Schulz,B2C,Alemania,Consumer,Individual,Tiendas Propias,clara.schulz@urbanstep-demo.com,+49 647 796 699,2026-07-03,3787
+C0253,Elena Romano,B2C,Italia,Consumer,Individual,Amazon,elena.romano@urbanstep-demo.com,+39 668 257 489,2026-11-05,922
+C0254,Andrea Marino,B2C,Italia,Consumer,Individual,Ecommerce,andrea.marino@urbanstep-demo.com,+39 678 555 468,2023-02-05,292
+C0255,Clara Pérez,B2C,España,Consumer,Individual,Amazon,clara.perez@urbanstep-demo.com,+34 704 205 126,2021-06-18,4447
+C0256,Laura Jiménez,B2C,España,Consumer,Individual,Ecommerce,laura.jimenez@urbanstep-demo.com,+34 668 408 374,2024-03-03,1387
+C0257,Pablo Fernández,B2C,España,Consumer,Individual,Amazon,pablo.fernandez@urbanstep-demo.com,+34 752 731 300,2024-02-05,4311
+C0258,Alberto Martínez,B2C,España,Consumer,Individual,Amazon,alberto.martinez@urbanstep-demo.com,+34 684 550 442,2024-11-20,3362
+C0259,Sergio Pérez,B2C,España,Consumer,Individual,Ecommerce,sergio.perez@urbanstep-demo.com,+34 681 398 852,2026-11-16,3512
+C0260,Marie Schneider,B2C,Alemania,Consumer,Individual,Ecommerce,marie.schneider@urbanstep-demo.com,+49 693 216 677,2022-10-18,3468
+C0261,Miguel Ruiz,B2C,España,Consumer,Individual,Ecommerce,miguel.ruiz@urbanstep-demo.com,+34 777 170 938,2024-11-16,2636
+C0262,Pablo Jiménez,B2C,España,Consumer,Individual,Ecommerce,pablo.jimenez@urbanstep-demo.com,+34 696 175 559,2025-08-19,3716
+C0263,Manon Durand,B2C,Francia,Consumer,Individual,Ecommerce,manon.durand@urbanstep-demo.com,+33 779 931 649,2025-11-03,3195
+C0264,Elena Jiménez,B2C,España,Consumer,Individual,Amazon,elena.jimenez@urbanstep-demo.com,+34 765 727 145,2025-11-22,1612
+C0265,Andrea Greco,B2C,Italia,Consumer,Individual,Ecommerce,andrea.greco@urbanstep-demo.com,+39 666 327 622,2026-09-18,1057
+C0266,Emma Richard,B2C,Francia,Consumer,Individual,Ecommerce,emma.richard@urbanstep-demo.com,+33 797 795 702,2026-09-05,4043
+C0267,Ana López,B2C,España,Consumer,Individual,Ecommerce,ana.lopez@urbanstep-demo.com,+34 629 951 847,2022-06-10,953
+C0268,Sergio Gómez,B2C,España,Consumer,Individual,Ecommerce,sergio.gomez@urbanstep-demo.com,+34 624 548 839,2026-08-11,4150
+C0269,Marta Ruiz,B2C,España,Consumer,Individual,Ecommerce,marta.ruiz@urbanstep-demo.com,+34 765 211 793,2022-12-08,3060
+C0270,Manon Richard,B2C,Francia,Consumer,Individual,Ecommerce,manon.richard@urbanstep-demo.com,+33 761 288 290,2026-11-14,3568
+C0271,Lucas Richard,B2C,Francia,Consumer,Individual,Amazon,lucas.richard@urbanstep-demo.com,+33 601 821 319,2022-05-25,3435
+C0272,Sofia Gallo,B2C,Italia,Consumer,Individual,Ecommerce,sofia.gallo@urbanstep-demo.com,+39 650 568 216,2023-11-28,2920
+C0273,Antoine Leroy,B2C,Francia,Consumer,Individual,Ecommerce,antoine.leroy@urbanstep-demo.com,+33 750 216 456,2023-08-20,3465
+C0274,Ana Fernández,B2C,España,Consumer,Individual,Ecommerce,ana.fernandez@urbanstep-demo.com,+34 695 810 244,2025-07-14,1749
+C0275,Julien Robert,B2C,Francia,Consumer,Individual,Ecommerce,julien.robert@urbanstep-demo.com,+33 742 270 601,2023-03-06,1669
+C0276,Marta Martínez,B2C,España,Consumer,Individual,Tiendas Propias,marta.martinez@urbanstep-demo.com,+34 634 299 934,2024-09-17,4219
+C0277,Martina Bruno,B2C,Italia,Consumer,Individual,Ecommerce,martina.bruno@urbanstep-demo.com,+39 725 271 184,2025-01-26,3886
+C0278,Davide Romano,B2C,Italia,Consumer,Individual,Ecommerce,davide.romano@urbanstep-demo.com,+39 799 568 679,2026-08-18,1627
+C0279,Claire Durand,B2C,Francia,Consumer,Individual,Amazon,claire.durand@urbanstep-demo.com,+33 794 836 551,2025-04-14,590
+C0280,Elena López,B2C,España,Consumer,Individual,Tiendas Propias,elena.lopez@urbanstep-demo.com,+34 715 369 456,2021-08-28,514
+C0281,Marie Fischer,B2C,Alemania,Consumer,Individual,Amazon,marie.fischer@urbanstep-demo.com,+49 781 724 747,2024-03-20,3122
+C0282,Sergio Fernández,B2C,España,Consumer,Individual,Amazon,sergio.fernandez@urbanstep-demo.com,+34 736 387 711,2025-03-11,3123
+C0283,Laura Hoffmann,B2C,Alemania,Consumer,Individual,Amazon,laura.hoffmann@urbanstep-demo.com,+49 773 934 197,2022-07-02,4464
+C0284,Leon Klein,B2C,Alemania,Consumer,Individual,Tiendas Propias,leon.klein@urbanstep-demo.com,+49 637 828 429,2022-11-13,2295
+C0285,Hugo Simon,B2C,Francia,Consumer,Individual,Ecommerce,hugo.simon@urbanstep-demo.com,+33 619 748 913,2021-07-17,3952
+C0286,Valentina Conti,B2C,Italia,Consumer,Individual,Tiendas Propias,valentina.conti@urbanstep-demo.com,+39 748 102 989,2026-02-24,2931
+C0287,Paul Fischer,B2C,Alemania,Consumer,Individual,Tiendas Propias,paul.fischer@urbanstep-demo.com,+49 726 374 430,2023-06-18,1985
+C0288,Laura Petit,B2C,Francia,Consumer,Individual,Tiendas Propias,laura.petit@urbanstep-demo.com,+33 611 201 741,2024-01-04,646
+C0289,Sophie Becker,B2C,Alemania,Consumer,Individual,Ecommerce,sophie.becker@urbanstep-demo.com,+49 651 805 235,2026-05-06,3754
+C0290,Felix Schmidt,B2C,Alemania,Consumer,Individual,Amazon,felix.schmidt@urbanstep-demo.com,+49 621 480 780,2026-03-02,2301
+C0291,Thomas Michel,B2C,Francia,Consumer,Individual,Ecommerce,thomas.michel@urbanstep-demo.com,+33 722 179 235,2025-04-17,1998
+C0292,Andrea Bianchi,B2C,Italia,Consumer,Individual,Tiendas Propias,andrea.bianchi@urbanstep-demo.com,+39 777 235 589,2021-04-13,3709
+C0293,Ana Rodríguez,B2C,España,Consumer,Individual,Ecommerce,ana.rodriguez@urbanstep-demo.com,+34 635 491 892,2022-11-22,2701
+C0294,Carlos Martín,B2C,España,Consumer,Individual,Amazon,carlos.martin@urbanstep-demo.com,+34 689 839 318,2026-12-05,3855
+C0295,Lukas Schmidt,B2C,Alemania,Consumer,Individual,Ecommerce,lukas.schmidt@urbanstep-demo.com,+49 750 847 493,2023-07-11,1258
+C0296,Luca Romano,B2C,Italia,Consumer,Individual,Amazon,luca.romano@urbanstep-demo.com,+39 799 807 127,2026-05-07,2584
+C0297,Lucas Michel,B2C,Francia,Consumer,Individual,Ecommerce,lucas.michel@urbanstep-demo.com,+33 661 606 495,2021-04-16,697
+C0298,Marco Marino,B2C,Italia,Consumer,Individual,Tiendas Propias,marco.marino@urbanstep-demo.com,+39 699 981 959,2025-07-12,1331
+C0299,Camille Richard,B2C,Francia,Consumer,Individual,Tiendas Propias,camille.richard@urbanstep-demo.com,+33 604 701 169,2021-05-07,847
+C0300,Marta Sánchez,B2C,España,Consumer,Individual,Ecommerce,marta.sanchez@urbanstep-demo.com,+34 796 525 533,2026-07-03,4354
+C0301,Matteo Ricci,B2C,Italia,Consumer,Individual,Ecommerce,matteo.ricci@urbanstep-demo.com,+39 730 308 927,2022-09-11,897
+C0302,Emma Martin,B2C,Francia,Consumer,Individual,Ecommerce,emma.martin@urbanstep-demo.com,+33 629 564 726,2025-01-10,3809
+C0303,Francesca Bianchi,B2C,Italia,Consumer,Individual,Ecommerce,francesca.bianchi@urbanstep-demo.com,+39 779 111 267,2024-06-17,1374
+C0304,Hugo Michel,B2C,Francia,Consumer,Individual,Tiendas Propias,hugo.michel@urbanstep-demo.com,+33 685 926 539,2023-09-03,490
+C0305,Nuria García,B2C,España,Consumer,Individual,Ecommerce,nuria.garcia@urbanstep-demo.com,+34 694 261 361,2021-10-22,1617
+C0306,Giulia Conti,B2C,Italia,Consumer,Individual,Ecommerce,giulia.conti@urbanstep-demo.com,+39 645 978 136,2025-12-24,1479
+C0307,Chiara Marino,B2C,Italia,Consumer,Individual,Ecommerce,chiara.marino@urbanstep-demo.com,+39 669 945 179,2025-06-04,2870
+C0308,Emma Durand,B2C,Francia,Consumer,Individual,Tiendas Propias,emma.durand@urbanstep-demo.com,+33 617 998 576,2023-05-11,3534
+C0309,Miguel García,B2C,España,Consumer,Individual,Ecommerce,miguel.garcia@urbanstep-demo.com,+34 744 903 411,2026-10-08,2638
+C0310,Emma Bernard,B2C,Francia,Consumer,Individual,Ecommerce,emma.bernard@urbanstep-demo.com,+33 606 338 654,2023-11-27,3609
+C0311,Marco Bruno,B2C,Italia,Consumer,Individual,Ecommerce,marco.bruno@urbanstep-demo.com,+39 626 310 642,2022-07-16,2769
+C0312,Anna Fischer,B2C,Alemania,Consumer,Individual,Tiendas Propias,anna.fischer@urbanstep-demo.com,+49 779 481 569,2026-02-19,3633
+C0313,Alberto Rodríguez,B2C,España,Consumer,Individual,Amazon,alberto.rodriguez@urbanstep-demo.com,+34 711 778 233,2022-05-09,760
+C0314,Paul Klein,B2C,Alemania,Consumer,Individual,Amazon,paul.klein@urbanstep-demo.com,+49 681 563 378,2022-02-07,2922
+C0315,Ana González,B2C,España,Consumer,Individual,Ecommerce,ana.gonzalez@urbanstep-demo.com,+34 719 421 516,2021-09-12,3932
+C0316,Max Becker,B2C,Alemania,Consumer,Individual,Ecommerce,max.becker@urbanstep-demo.com,+49 630 192 261,2026-05-27,2420
+C0317,Giulia Romano,B2C,Italia,Consumer,Individual,Amazon,giulia.romano@urbanstep-demo.com,+39 637 193 828,2022-06-13,2935
+C0318,Camille Martin,B2C,Francia,Consumer,Individual,Tiendas Propias,camille.martin@urbanstep-demo.com,+33 742 866 663,2022-02-15,3954
+C0319,David Rodríguez,B2C,España,Consumer,Individual,Ecommerce,david.rodriguez@urbanstep-demo.com,+34 633 302 943,2024-06-22,2070
+C0320,Davide Bianchi,B2C,Italia,Consumer,Individual,Ecommerce,davide.bianchi@urbanstep-demo.com,+39 650 761 554,2022-02-28,778
+C0321,Jonas Schmidt,B2C,Alemania,Consumer,Individual,Ecommerce,jonas.schmidt@urbanstep-demo.com,+49 612 272 687,2024-12-13,4026
+C0322,Julien Simon,B2C,Francia,Consumer,Individual,Ecommerce,julien.simon@urbanstep-demo.com,+33 654 291 381,2023-08-05,3149
+C0323,Javier López,B2C,España,Consumer,Individual,Ecommerce,javier.lopez@urbanstep-demo.com,+34 651 758 916,2025-04-21,3684
+C0324,Thomas Wagner,B2C,Alemania,Consumer,Individual,Amazon,thomas.wagner@urbanstep-demo.com,+49 722 657 900,2024-06-19,3191
+C0325,Julien Moreau,B2C,Francia,Consumer,Individual,Ecommerce,julien.moreau@urbanstep-demo.com,+33 752 324 130,2023-01-26,2862
+C0326,Cologne Shoe Market,Retail Partner,Alemania,Retail Partner,Medium,Ecommerce,cologne.shoe.market@urbanstep-demo.com,+49 625 353 772,2022-05-18,18461
+C0327,Berlin Footwear GmbH,Retail Partner,Alemania,Retail Partner,Medium,Ecommerce,berlin.footwear.gmbh@urbanstep-demo.com,+49 699 463 959,2022-03-08,45728
+C0328,Groupe Retail Nord,Retail Partner,Francia,Retail Partner,Large,Retail Partners,groupe.retail.nord@urbanstep-demo.com,+33 690 681 677,2022-10-07,53911
+C0329,Stuttgart Schuhhaus,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,stuttgart.schuhhaus@urbanstep-demo.com,+49 623 157 338,2025-04-01,10487
+C0330,Chaussures Paris SAS,Retail Partner,Francia,Retail Partner,Small,Retail Partners,chaussures.paris.sas@urbanstep-demo.com,+33 633 448 834,2022-06-02,60851
+C0331,Barcelona Shoe Center,Retail Partner,España,Retail Partner,Medium,Tiendas Propias,barcelona.shoe.center@urbanstep-demo.com,+34 693 174 482,2026-11-13,64404
+C0332,Groupe Retail Nord 48,Retail Partner,Francia,Retail Partner,Small,Ecommerce,groupe.retail.nord.48@urbanstep-demo.com,+33 711 910 754,2024-11-11,55995
+C0333,Valencia Calzado Retail,Retail Partner,España,Retail Partner,Small,Retail Partners,valencia.calzado.retail@urbanstep-demo.com,+34 696 414 851,2026-05-05,19491
+C0334,Calzados Mediterráneo SL,Retail Partner,España,Retail Partner,Large,Ecommerce,calzados.mediterraneo.sl@urbanstep-demo.com,+34 797 681 133,2022-10-11,33663
+C0335,Hamburg Urban Shoes,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,hamburg.urban.shoes@urbanstep-demo.com,+49 636 439 863,2021-04-12,40517
+C0336,Bavaria Footwear Group,Retail Partner,Alemania,Retail Partner,Medium,Ecommerce,bavaria.footwear.group@urbanstep-demo.com,+49 781 786 754,2026-06-15,61848
+C0337,Retail Footwear Iberia,Retail Partner,España,Retail Partner,Small,Retail Partners,retail.footwear.iberia@urbanstep-demo.com,+34 627 837 101,2021-07-15,24820
+C0338,Torino Calzature,Retail Partner,Italia,Retail Partner,Large,Retail Partners,torino.calzature@urbanstep-demo.com,+39 689 659 484,2021-08-26,32819
+C0339,Hamburg Urban Shoes 30,Retail Partner,Alemania,Retail Partner,Medium,Tiendas Propias,hamburg.urban.shoes.30@urbanstep-demo.com,+49 675 120 426,2023-02-03,10189
+C0340,Bilbao Footwear Store,Retail Partner,España,Retail Partner,Small,Retail Partners,bilbao.footwear.store@urbanstep-demo.com,+34 686 708 728,2024-12-01,14101
+C0341,Sud France Shoes,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,sud.france.shoes@urbanstep-demo.com,+33 625 439 310,2022-07-23,11509
+C0342,Marseille Shoe Corner,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,marseille.shoe.corner@urbanstep-demo.com,+33 612 502 685,2025-08-05,14285
+C0343,Calzados Mediterráneo SL 64,Retail Partner,España,Retail Partner,Small,Tiendas Propias,calzados.mediterraneo.sl.64@urbanstep-demo.com,+34 753 591 304,2021-01-07,48965
+C0344,Madrid Urban Shoes,Retail Partner,España,Retail Partner,Large,Retail Partners,madrid.urban.shoes@urbanstep-demo.com,+34 678 903 507,2024-08-22,15569
+C0345,Bilbao Footwear Store 33,Retail Partner,España,Retail Partner,Medium,Retail Partners,bilbao.footwear.store.33@urbanstep-demo.com,+34 714 145 369,2024-08-09,20227
+C0346,Madrid Urban Shoes 82,Retail Partner,España,Retail Partner,Small,Tiendas Propias,madrid.urban.shoes.82@urbanstep-demo.com,+34 624 187 784,2023-09-14,51743
+C0347,Hamburg Urban Shoes 80,Retail Partner,Alemania,Retail Partner,Small,Retail Partners,hamburg.urban.shoes.80@urbanstep-demo.com,+49 707 648 803,2024-10-08,42247
+C0348,Retail Lyon Footwear,Retail Partner,Francia,Retail Partner,Medium,Tiendas Propias,retail.lyon.footwear@urbanstep-demo.com,+33 728 684 629,2025-11-20,10275
+C0349,Andalucía Shoe Market,Retail Partner,España,Retail Partner,Small,Ecommerce,andalucia.shoe.market@urbanstep-demo.com,+34 649 229 143,2024-02-22,21886
+C0350,Sud France Shoes 86,Retail Partner,Francia,Retail Partner,Small,Ecommerce,sud.france.shoes.86@urbanstep-demo.com,+33 617 189 497,2025-07-18,60910
+C0351,Madrid Urban Shoes 76,Retail Partner,España,Retail Partner,Medium,Tiendas Propias,madrid.urban.shoes.76@urbanstep-demo.com,+34 779 738 701,2025-07-04,59547
+C0352,Sud France Shoes 82,Retail Partner,Francia,Retail Partner,Medium,Tiendas Propias,sud.france.shoes.82@urbanstep-demo.com,+33 627 676 898,2021-05-28,14566
+C0353,Groupe Retail Nord 62,Retail Partner,Francia,Retail Partner,Small,Retail Partners,groupe.retail.nord.62@urbanstep-demo.com,+33 755 584 138,2022-05-13,45488
+C0354,Bilbao Footwear Store 14,Retail Partner,España,Retail Partner,Medium,Tiendas Propias,bilbao.footwear.store.14@urbanstep-demo.com,+34 660 150 863,2024-05-12,53253
+C0355,Madrid Urban Shoes 49,Retail Partner,España,Retail Partner,Small,Retail Partners,madrid.urban.shoes.49@urbanstep-demo.com,+34 775 200 989,2022-03-10,53625
+C0356,Stuttgart Schuhhaus 51,Retail Partner,Alemania,Retail Partner,Small,Retail Partners,stuttgart.schuhhaus.51@urbanstep-demo.com,+49 622 292 552,2022-07-24,50307
+C0357,Groupe Retail Nord 17,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,groupe.retail.nord.17@urbanstep-demo.com,+33 781 618 513,2022-09-19,28389
+C0358,Retail Footwear Iberia 35,Retail Partner,España,Retail Partner,Large,Retail Partners,retail.footwear.iberia.35@urbanstep-demo.com,+34 612 469 821,2022-05-12,37913
+C0359,Düsseldorf Footwear Store,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,dusseldorf.footwear.store@urbanstep-demo.com,+49 661 481 600,2025-08-06,10002
+C0360,Stuttgart Schuhhaus 85,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,stuttgart.schuhhaus.85@urbanstep-demo.com,+49 666 866 950,2026-02-10,62896
+C0361,Calzados Mediterráneo SL 30,Retail Partner,España,Retail Partner,Large,Tiendas Propias,calzados.mediterraneo.sl.30@urbanstep-demo.com,+34 656 762 330,2026-04-09,22045
+C0362,Milano Shoe Retail SRL,Retail Partner,Italia,Retail Partner,Large,Ecommerce,milano.shoe.retail.srl@urbanstep-demo.com,+39 602 585 235,2026-03-20,52708
+C0363,Hamburg Urban Shoes 42,Retail Partner,Alemania,Retail Partner,Medium,Ecommerce,hamburg.urban.shoes.42@urbanstep-demo.com,+49 781 758 381,2024-07-28,54710
+C0364,Madrid Urban Shoes 37,Retail Partner,España,Retail Partner,Medium,Retail Partners,madrid.urban.shoes.37@urbanstep-demo.com,+34 759 506 698,2021-01-17,62022
+C0365,Cologne Shoe Market 81,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,cologne.shoe.market.81@urbanstep-demo.com,+49 775 210 593,2021-06-09,27560
+C0366,Napoli Shoe Store,Retail Partner,Italia,Retail Partner,Small,Tiendas Propias,napoli.shoe.store@urbanstep-demo.com,+39 676 292 253,2025-04-02,50694
+C0367,Düsseldorf Footwear Store 94,Retail Partner,Alemania,Retail Partner,Small,Retail Partners,dusseldorf.footwear.store.94@urbanstep-demo.com,+49 767 609 402,2023-07-13,9668
+C0368,Chaussures Paris SAS 84,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,chaussures.paris.sas.84@urbanstep-demo.com,+33 687 843 830,2022-11-18,20446
+C0369,Genova Calzature,Retail Partner,Italia,Retail Partner,Large,Retail Partners,genova.calzature@urbanstep-demo.com,+39 676 965 274,2026-09-06,41247
+C0370,Andalucía Shoe Market 26,Retail Partner,España,Retail Partner,Medium,Tiendas Propias,andalucia.shoe.market.26@urbanstep-demo.com,+34 795 287 796,2023-11-03,44636
+C0371,Retail Footwear Iberia 49,Retail Partner,España,Retail Partner,Medium,Tiendas Propias,retail.footwear.iberia.49@urbanstep-demo.com,+34 666 699 401,2024-02-16,32358
+C0372,Zapaterías Costa Brava,Retail Partner,España,Retail Partner,Medium,Retail Partners,zapaterias.costa.brava@urbanstep-demo.com,+34 774 490 642,2023-07-02,15852
+C0373,Bavaria Footwear Group 27,Retail Partner,Alemania,Retail Partner,Large,Retail Partners,bavaria.footwear.group.27@urbanstep-demo.com,+49 717 246 423,2026-03-25,45316
+C0374,Valencia Calzado Retail 90,Retail Partner,España,Retail Partner,Large,Retail Partners,valencia.calzado.retail.90@urbanstep-demo.com,+34 601 562 380,2022-03-19,11801
+C0375,Genova Calzature 21,Retail Partner,Italia,Retail Partner,Small,Retail Partners,genova.calzature.21@urbanstep-demo.com,+39 703 539 588,2024-01-02,36141
+C0376,Groupe Retail Nord 11,Retail Partner,Francia,Retail Partner,Large,Tiendas Propias,groupe.retail.nord.11@urbanstep-demo.com,+33 648 118 792,2021-11-24,42801
+C0377,Valencia Calzado Retail 49,Retail Partner,España,Retail Partner,Small,Retail Partners,valencia.calzado.retail.49@urbanstep-demo.com,+34 678 271 166,2021-05-10,46579
+C0378,Groupe Retail Nord 65,Retail Partner,Francia,Retail Partner,Large,Ecommerce,groupe.retail.nord.65@urbanstep-demo.com,+33 725 467 868,2022-03-26,30461
+C0379,Mode Chaussure Bordeaux,Retail Partner,Francia,Retail Partner,Small,Ecommerce,mode.chaussure.bordeaux@urbanstep-demo.com,+33 787 122 703,2025-03-04,21840
+C0380,Chaussures Paris SAS 58,Retail Partner,Francia,Retail Partner,Large,Retail Partners,chaussures.paris.sas.58@urbanstep-demo.com,+33 759 149 708,2021-11-04,43044
+C0381,Milano Shoe Retail SRL 16,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,milano.shoe.retail.srl.16@urbanstep-demo.com,+39 631 660 358,2024-12-05,32920
+C0382,Calzados Mediterráneo SL 48,Retail Partner,España,Retail Partner,Medium,Retail Partners,calzados.mediterraneo.sl.48@urbanstep-demo.com,+34 669 737 720,2026-03-14,42098
+C0383,Munich Shoe Center,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,munich.shoe.center@urbanstep-demo.com,+49 629 903 208,2024-04-20,26527
+C0384,Madrid Urban Shoes 76,Retail Partner,España,Retail Partner,Large,Retail Partners,madrid.urban.shoes.76@urbanstep-demo.com,+34 675 264 140,2025-08-07,34853
+C0385,Genova Calzature 52,Retail Partner,Italia,Retail Partner,Small,Retail Partners,genova.calzature.52@urbanstep-demo.com,+39 628 955 687,2026-08-05,13832
+C0386,Munich Shoe Center 22,Retail Partner,Alemania,Retail Partner,Large,Retail Partners,munich.shoe.center.22@urbanstep-demo.com,+49 675 370 575,2021-02-27,37933
+C0387,Calzados Mediterráneo SL 47,Retail Partner,España,Retail Partner,Medium,Retail Partners,calzados.mediterraneo.sl.47@urbanstep-demo.com,+34 789 218 197,2021-01-28,35918
+C0388,Barcelona Shoe Center 52,Retail Partner,España,Retail Partner,Medium,Retail Partners,barcelona.shoe.center.52@urbanstep-demo.com,+34 668 999 850,2021-06-27,48750
+C0389,Zapaterías Costa Brava 61,Retail Partner,España,Retail Partner,Medium,Retail Partners,zapaterias.costa.brava.61@urbanstep-demo.com,+34 698 806 971,2024-07-21,62768
+C0390,Bavaria Footwear Group 24,Retail Partner,Alemania,Retail Partner,Small,Tiendas Propias,bavaria.footwear.group.24@urbanstep-demo.com,+49 640 206 526,2025-08-26,63335
+C0391,Toulouse Urban Shoes,Retail Partner,Francia,Retail Partner,Small,Retail Partners,toulouse.urban.shoes@urbanstep-demo.com,+33 756 129 983,2026-12-05,31501
+C0392,Toulouse Urban Shoes 24,Retail Partner,Francia,Retail Partner,Large,Retail Partners,toulouse.urban.shoes.24@urbanstep-demo.com,+33 666 770 421,2021-12-28,12150
+C0393,Veneto Fashion Retail,Retail Partner,Italia,Retail Partner,Large,Retail Partners,veneto.fashion.retail@urbanstep-demo.com,+39 732 635 804,2026-10-04,30170
+C0394,Mode Chaussure Bordeaux 71,Retail Partner,Francia,Retail Partner,Small,Retail Partners,mode.chaussure.bordeaux.71@urbanstep-demo.com,+33 638 959 946,2025-10-02,33223
+C0395,Barcelona Shoe Center 74,Retail Partner,España,Retail Partner,Large,Tiendas Propias,barcelona.shoe.center.74@urbanstep-demo.com,+34 642 176 869,2024-06-08,64978
+C0396,Madrid Urban Shoes 16,Retail Partner,España,Retail Partner,Medium,Retail Partners,madrid.urban.shoes.16@urbanstep-demo.com,+34 703 936 340,2021-08-15,32814
+C0397,Stuttgart Schuhhaus 21,Retail Partner,Alemania,Retail Partner,Large,Retail Partners,stuttgart.schuhhaus.21@urbanstep-demo.com,+49 727 863 769,2021-02-13,15779
+C0398,Chaussures Paris SAS 21,Retail Partner,Francia,Retail Partner,Medium,Ecommerce,chaussures.paris.sas.21@urbanstep-demo.com,+33 677 620 675,2022-11-22,49781
+C0399,Groupe Retail Nord 56,Retail Partner,Francia,Retail Partner,Large,Tiendas Propias,groupe.retail.nord.56@urbanstep-demo.com,+33 716 439 673,2025-10-16,63333
+C0400,Firenze Footwear Boutique,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,firenze.footwear.boutique@urbanstep-demo.com,+39 768 327 102,2023-06-27,57762
+C0401,Napoli Shoe Store 80,Retail Partner,Italia,Retail Partner,Medium,Tiendas Propias,napoli.shoe.store.80@urbanstep-demo.com,+39 642 604 243,2026-12-24,11000
+C0402,Marseille Shoe Corner 88,Retail Partner,Francia,Retail Partner,Small,Retail Partners,marseille.shoe.corner.88@urbanstep-demo.com,+33 700 320 568,2022-12-11,63849
+C0403,Bilbao Footwear Store 15,Retail Partner,España,Retail Partner,Large,Tiendas Propias,bilbao.footwear.store.15@urbanstep-demo.com,+34 631 890 561,2024-11-19,46588
+C0404,Bavaria Footwear Group 73,Retail Partner,Alemania,Retail Partner,Small,Tiendas Propias,bavaria.footwear.group.73@urbanstep-demo.com,+49 710 958 699,2024-09-25,44256
+C0405,Bavaria Footwear Group 98,Retail Partner,Alemania,Retail Partner,Medium,Tiendas Propias,bavaria.footwear.group.98@urbanstep-demo.com,+49 626 496 773,2025-10-11,16413
+C0406,Nice Footwear Boutique,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,nice.footwear.boutique@urbanstep-demo.com,+33 795 354 380,2024-06-10,53384
+C0407,Sud France Shoes 27,Retail Partner,Francia,Retail Partner,Medium,Tiendas Propias,sud.france.shoes.27@urbanstep-demo.com,+33 731 406 963,2026-09-28,57048
+C0408,Retail Footwear Iberia 35,Retail Partner,España,Retail Partner,Small,Tiendas Propias,retail.footwear.iberia.35@urbanstep-demo.com,+34 688 788 235,2026-11-06,52997
+C0409,Groupe Retail Nord 24,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,groupe.retail.nord.24@urbanstep-demo.com,+33 746 783 827,2024-11-24,46194
+C0410,Frankfurt Retail Shoes,Retail Partner,Alemania,Retail Partner,Large,Retail Partners,frankfurt.retail.shoes@urbanstep-demo.com,+49 733 209 125,2024-03-02,8836
+C0411,Veneto Fashion Retail 44,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,veneto.fashion.retail.44@urbanstep-demo.com,+39 774 356 249,2021-12-26,26783
+C0412,Calzados Mediterráneo SL 55,Retail Partner,España,Retail Partner,Large,Retail Partners,calzados.mediterraneo.sl.55@urbanstep-demo.com,+34 772 857 675,2022-12-21,64887
+C0413,Mode Chaussure Bordeaux 75,Retail Partner,Francia,Retail Partner,Medium,Tiendas Propias,mode.chaussure.bordeaux.75@urbanstep-demo.com,+33 777 780 148,2024-07-14,26850
+C0414,Cologne Shoe Market 80,Retail Partner,Alemania,Retail Partner,Small,Tiendas Propias,cologne.shoe.market.80@urbanstep-demo.com,+49 758 989 899,2024-04-21,21309
+C0415,Firenze Footwear Boutique 85,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,firenze.footwear.boutique.85@urbanstep-demo.com,+39 785 298 401,2024-03-22,58865
+C0416,Barcelona Shoe Center 75,Retail Partner,España,Retail Partner,Small,Retail Partners,barcelona.shoe.center.75@urbanstep-demo.com,+34 742 370 233,2022-10-28,26291
+C0417,Valencia Calzado Retail 69,Retail Partner,España,Retail Partner,Medium,Retail Partners,valencia.calzado.retail.69@urbanstep-demo.com,+34 682 711 152,2026-10-27,18073
+C0418,Genova Calzature 83,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,genova.calzature.83@urbanstep-demo.com,+39 681 638 325,2022-09-03,54378
+C0419,Torino Calzature 63,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,torino.calzature.63@urbanstep-demo.com,+39 656 318 779,2023-06-12,30898
+C0420,Andalucía Shoe Market 81,Retail Partner,España,Retail Partner,Large,Ecommerce,andalucia.shoe.market.81@urbanstep-demo.com,+34 629 784 454,2024-04-21,8576
+C0421,Veneto Fashion Retail 15,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,veneto.fashion.retail.15@urbanstep-demo.com,+39 629 495 362,2025-12-10,60180
+C0422,Valencia Calzado Retail 75,Retail Partner,España,Retail Partner,Large,Retail Partners,valencia.calzado.retail.75@urbanstep-demo.com,+34 675 767 297,2023-09-03,10873
+C0423,Bavaria Footwear Group 78,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,bavaria.footwear.group.78@urbanstep-demo.com,+49 771 744 892,2022-11-14,21813
+C0424,Hamburg Urban Shoes 78,Retail Partner,Alemania,Retail Partner,Large,Tiendas Propias,hamburg.urban.shoes.78@urbanstep-demo.com,+49 798 545 762,2021-12-22,56586
+C0425,Andalucía Shoe Market 52,Retail Partner,España,Retail Partner,Small,Retail Partners,andalucia.shoe.market.52@urbanstep-demo.com,+34 664 671 172,2025-04-09,19664
+C0426,Toulouse Urban Shoes 90,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,toulouse.urban.shoes.90@urbanstep-demo.com,+33 772 221 647,2021-11-24,33526
+C0427,Milano Shoe Retail SRL 99,Retail Partner,Italia,Retail Partner,Large,Retail Partners,milano.shoe.retail.srl.99@urbanstep-demo.com,+39 627 396 905,2026-05-20,40953
+C0428,Andalucía Shoe Market 58,Retail Partner,España,Retail Partner,Medium,Retail Partners,andalucia.shoe.market.58@urbanstep-demo.com,+34 640 646 325,2022-12-13,39063
+C0429,Napoli Shoe Store 91,Retail Partner,Italia,Retail Partner,Small,Retail Partners,napoli.shoe.store.91@urbanstep-demo.com,+39 786 763 482,2021-09-28,60102
+C0430,Retail Lyon Footwear 15,Retail Partner,Francia,Retail Partner,Small,Retail Partners,retail.lyon.footwear.15@urbanstep-demo.com,+33 740 187 412,2022-12-24,43202
+C0431,Cologne Shoe Market 37,Retail Partner,Alemania,Retail Partner,Medium,Retail Partners,cologne.shoe.market.37@urbanstep-demo.com,+49 636 264 288,2022-10-27,41590
+C0432,Zapaterías Costa Brava 33,Retail Partner,España,Retail Partner,Medium,Retail Partners,zapaterias.costa.brava.33@urbanstep-demo.com,+34 792 662 572,2026-09-03,11564
+C0433,Zapaterías Costa Brava 42,Retail Partner,España,Retail Partner,Small,Tiendas Propias,zapaterias.costa.brava.42@urbanstep-demo.com,+34 684 465 231,2026-11-08,39928
+C0434,Zapaterías Costa Brava 34,Retail Partner,España,Retail Partner,Small,Retail Partners,zapaterias.costa.brava.34@urbanstep-demo.com,+34 768 413 810,2025-03-19,48392
+C0435,Groupe Retail Nord 64,Retail Partner,Francia,Retail Partner,Small,Retail Partners,groupe.retail.nord.64@urbanstep-demo.com,+33 656 829 857,2026-07-09,59489
+C0436,Bavaria Footwear Group 96,Retail Partner,Alemania,Retail Partner,Medium,Tiendas Propias,bavaria.footwear.group.96@urbanstep-demo.com,+49 714 467 893,2023-08-18,38333
+C0437,Zapaterías Costa Brava 45,Retail Partner,España,Retail Partner,Large,Retail Partners,zapaterias.costa.brava.45@urbanstep-demo.com,+34 650 369 851,2026-02-24,43298
+C0438,Calzados Mediterráneo SL 74,Retail Partner,España,Retail Partner,Medium,Tiendas Propias,calzados.mediterraneo.sl.74@urbanstep-demo.com,+34 703 887 704,2022-01-18,45938
+C0439,Andalucía Shoe Market 93,Retail Partner,España,Retail Partner,Medium,Retail Partners,andalucia.shoe.market.93@urbanstep-demo.com,+34 797 703 850,2023-03-15,22634
+C0440,Retail Lyon Footwear 60,Retail Partner,Francia,Retail Partner,Medium,Retail Partners,retail.lyon.footwear.60@urbanstep-demo.com,+33 757 800 269,2025-03-15,23655
+C0441,Barcelona Shoe Center 71,Retail Partner,España,Retail Partner,Large,Retail Partners,barcelona.shoe.center.71@urbanstep-demo.com,+34 724 337 164,2023-06-08,57903
+C0442,Retail Footwear Iberia 76,Retail Partner,España,Retail Partner,Large,Retail Partners,retail.footwear.iberia.76@urbanstep-demo.com,+34 716 147 140,2026-06-04,38780
+C0443,Napoli Shoe Store 43,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,napoli.shoe.store.43@urbanstep-demo.com,+39 767 487 474,2025-11-27,32684
+C0444,Madrid Urban Shoes 58,Retail Partner,España,Retail Partner,Large,Retail Partners,madrid.urban.shoes.58@urbanstep-demo.com,+34 690 936 988,2023-08-26,34597
+C0445,Chaussures Paris SAS 74,Retail Partner,Francia,Retail Partner,Large,Retail Partners,chaussures.paris.sas.74@urbanstep-demo.com,+33 619 626 758,2023-04-05,23072
+C0446,Valencia Calzado Retail 87,Retail Partner,España,Retail Partner,Medium,Retail Partners,valencia.calzado.retail.87@urbanstep-demo.com,+34 706 930 438,2026-02-16,23095
+C0447,Genova Calzature 36,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,genova.calzature.36@urbanstep-demo.com,+39 605 349 144,2022-10-19,34928
+C0448,Calzados Mediterráneo SL 83,Retail Partner,España,Retail Partner,Small,Retail Partners,calzados.mediterraneo.sl.83@urbanstep-demo.com,+34 732 515 713,2025-11-01,19798
+C0449,Frankfurt Retail Shoes 20,Retail Partner,Alemania,Retail Partner,Small,Retail Partners,frankfurt.retail.shoes.20@urbanstep-demo.com,+49 723 274 324,2024-10-05,38894
+C0450,Torino Calzature 89,Retail Partner,Italia,Retail Partner,Medium,Retail Partners,torino.calzature.89@urbanstep-demo.com,+39 775 450 564,2025-10-03,55460
+C0451,Grupo Calzado Norte,Distribuidor,España,Distributor,Medium,Retail Partners,grupo.calzado.norte@urbanstep-demo.com,+34 729 800 529,2022-10-04,172025
+C0452,Iberia Shoe Logistics,Distribuidor,España,Distributor,Strategic,Retail Partners,iberia.shoe.logistics@urbanstep-demo.com,+34 623 593 775,2022-10-18,65806
+C0453,Schuh Vertrieb Deutschland,Distribuidor,Alemania,Distributor,Large,Retail Partners,schuh.vertrieb.deutschland@urbanstep-demo.com,+49 778 642 539,2022-08-26,46387
+C0454,Mediterraneo Moda Distribuzione,Distribuidor,Italia,Distributor,Large,Retail Partners,mediterraneo.moda.distribuzione@urbanstep-demo.com,+39 708 237 360,2024-04-28,60615
+C0455,Grupo Calzado Norte 42,Distribuidor,España,Distributor,Medium,Retail Partners,grupo.calzado.norte.42@urbanstep-demo.com,+34 747 635 220,2025-01-13,36864
+C0456,Mediterraneo Moda Distribuzione 62,Distribuidor,Italia,Distributor,Large,Retail Partners,mediterraneo.moda.distribuzione.62@urbanstep-demo.com,+39 666 975 648,2024-10-12,101488
+C0457,Logistica Scarpe Italia,Distribuidor,Italia,Distributor,Strategic,Retail Partners,logistica.scarpe.italia@urbanstep-demo.com,+39 645 479 672,2025-08-09,161476
+C0458,Nord Footwear Partners,Distribuidor,Alemania,Distributor,Strategic,Retail Partners,nord.footwear.partners@urbanstep-demo.com,+49 768 221 865,2022-08-26,71193
+C0459,Italia Calzature Wholesale,Distribuidor,Italia,Distributor,Medium,Retail Partners,italia.calzature.wholesale@urbanstep-demo.com,+39 740 728 813,2026-12-02,123719
+C0460,Iberia Shoe Logistics 21,Distribuidor,España,Distributor,Strategic,Retail Partners,iberia.shoe.logistics.21@urbanstep-demo.com,+34 622 165 369,2022-06-03,149131
+C0461,Logistica Scarpe Italia 61,Distribuidor,Italia,Distributor,Large,Retail Partners,logistica.scarpe.italia.61@urbanstep-demo.com,+39 798 939 279,2026-08-15,50063
+C0462,Distribuciones Levante Shoes,Distribuidor,España,Distributor,Medium,Retail Partners,distribuciones.levante.shoes@urbanstep-demo.com,+34 732 815 337,2025-03-22,168837
+C0463,Mediterranean Retail Group,Distribuidor,España,Distributor,Large,Tiendas Propias,mediterranean.retail.group@urbanstep-demo.com,+34 670 898 509,2023-11-13,57765
+C0464,Hexagone Shoe Distribution,Distribuidor,Francia,Distributor,Large,Retail Partners,hexagone.shoe.distribution@urbanstep-demo.com,+33 623 662 391,2026-09-19,52987
+C0465,Distribuciones Levante Shoes 38,Distribuidor,España,Distributor,Large,Retail Partners,distribuciones.levante.shoes.38@urbanstep-demo.com,+34 747 104 367,2022-07-17,140894
+C0466,Iberia Shoe Logistics 74,Distribuidor,España,Distributor,Large,Tiendas Propias,iberia.shoe.logistics.74@urbanstep-demo.com,+34 665 997 650,2025-05-23,169555
+C0467,Euro Mode France,Distribuidor,Francia,Distributor,Large,Retail Partners,euro.mode.france@urbanstep-demo.com,+33 798 569 797,2024-10-28,124040
+C0468,Iberia Shoe Logistics 43,Distribuidor,España,Distributor,Medium,Retail Partners,iberia.shoe.logistics.43@urbanstep-demo.com,+34 773 818 335,2023-07-12,92771
+C0469,France Wholesale Footwear,Distribuidor,Francia,Distributor,Strategic,Retail Partners,france.wholesale.footwear@urbanstep-demo.com,+33 623 508 789,2026-06-03,110311
+C0470,Hexagone Shoe Distribution 70,Distribuidor,Francia,Distributor,Large,Retail Partners,hexagone.shoe.distribution.70@urbanstep-demo.com,+33 646 864 799,2022-08-24,105536
+C0471,Mediterranean Retail Group 43,Distribuidor,España,Distributor,Medium,Retail Partners,mediterranean.retail.group.43@urbanstep-demo.com,+34 758 464 259,2021-02-03,100456
+C0472,Logistica Scarpe Italia 88,Distribuidor,Italia,Distributor,Medium,Tiendas Propias,logistica.scarpe.italia.88@urbanstep-demo.com,+39 723 480 735,2023-08-19,46079
+C0473,Schuh Vertrieb Deutschland 33,Distribuidor,Alemania,Distributor,Strategic,Tiendas Propias,schuh.vertrieb.deutschland.33@urbanstep-demo.com,+49 701 327 868,2025-03-02,108470
+C0474,Euro Mode France 71,Distribuidor,Francia,Distributor,Strategic,Retail Partners,euro.mode.france.71@urbanstep-demo.com,+33 700 981 802,2022-08-04,126039
+C0475,Logistica Scarpe Italia 50,Distribuidor,Italia,Distributor,Large,Retail Partners,logistica.scarpe.italia.50@urbanstep-demo.com,+39 697 694 203,2023-06-20,90247
+C0476,DACH Shoe Logistics,Distribuidor,Alemania,Distributor,Large,Retail Partners,dach.shoe.logistics@urbanstep-demo.com,+49 756 451 474,2022-08-14,158560
+C0477,Distribuciones Levante Shoes 56,Distribuidor,España,Distributor,Strategic,Retail Partners,distribuciones.levante.shoes.56@urbanstep-demo.com,+34 746 234 689,2026-04-27,82156
+C0478,Distribuciones Levante Shoes 40,Distribuidor,España,Distributor,Large,Tiendas Propias,distribuciones.levante.shoes.40@urbanstep-demo.com,+34 637 919 856,2022-08-26,86396
+C0479,Grupo Calzado Norte 73,Distribuidor,España,Distributor,Medium,Tiendas Propias,grupo.calzado.norte.73@urbanstep-demo.com,+34 736 837 423,2024-05-09,170530
+C0480,France Wholesale Footwear 60,Distribuidor,Francia,Distributor,Medium,Retail Partners,france.wholesale.footwear.60@urbanstep-demo.com,+33 665 587 959,2026-02-15,91483
+C0481,Mediterraneo Moda Distribuzione 56,Distribuidor,Italia,Distributor,Large,Retail Partners,mediterraneo.moda.distribuzione.56@urbanstep-demo.com,+39 688 120 521,2021-06-28,102558
+C0482,Italia Calzature Wholesale 83,Distribuidor,Italia,Distributor,Large,Retail Partners,italia.calzature.wholesale.83@urbanstep-demo.com,+39 799 391 463,2023-11-17,80754
+C0483,Euro Mode France 20,Distribuidor,Francia,Distributor,Large,Retail Partners,euro.mode.france.20@urbanstep-demo.com,+33 642 755 927,2023-07-21,72971
+C0484,Logistica Scarpe Italia 19,Distribuidor,Italia,Distributor,Medium,Retail Partners,logistica.scarpe.italia.19@urbanstep-demo.com,+39 681 768 398,2026-05-20,117177
+C0485,Mediterraneo Moda Distribuzione 66,Distribuidor,Italia,Distributor,Strategic,Tiendas Propias,mediterraneo.moda.distribuzione.66@urbanstep-demo.com,+39 715 523 271,2022-01-05,171560
+C0486,Mediterraneo Moda Distribuzione 99,Distribuidor,Italia,Distributor,Strategic,Retail Partners,mediterraneo.moda.distribuzione.99@urbanstep-demo.com,+39 626 197 165,2024-09-02,139083
+C0487,Grupo Calzado Norte 77,Distribuidor,España,Distributor,Strategic,Retail Partners,grupo.calzado.norte.77@urbanstep-demo.com,+34 758 259 186,2026-07-10,103800
+C0488,Distribuciones Levante Shoes 66,Distribuidor,España,Distributor,Large,Retail Partners,distribuciones.levante.shoes.66@urbanstep-demo.com,+34 607 135 779,2023-06-28,79723
+C0489,Distribution Chaussures Ouest,Distribuidor,Francia,Distributor,Large,Retail Partners,distribution.chaussures.ouest@urbanstep-demo.com,+33 645 705 711,2024-11-24,176371
+C0490,Logistica Scarpe Italia 77,Distribuidor,Italia,Distributor,Large,Retail Partners,logistica.scarpe.italia.77@urbanstep-demo.com,+39 723 652 332,2021-08-10,126008
+C0491,Distribution Chaussures Ouest 29,Distribuidor,Francia,Distributor,Large,Retail Partners,distribution.chaussures.ouest.29@urbanstep-demo.com,+33 688 393 580,2025-01-23,70730
+C0492,Schuh Vertrieb Deutschland 48,Distribuidor,Alemania,Distributor,Medium,Retail Partners,schuh.vertrieb.deutschland.48@urbanstep-demo.com,+49 752 336 915,2021-09-12,111787
+C0493,Grupo Calzado Norte 60,Distribuidor,España,Distributor,Medium,Retail Partners,grupo.calzado.norte.60@urbanstep-demo.com,+34 696 325 369,2021-07-21,137163
+C0494,Distribuciones Levante Shoes 46,Distribuidor,España,Distributor,Large,Retail Partners,distribuciones.levante.shoes.46@urbanstep-demo.com,+34 705 292 973,2021-03-05,105470
+C0495,Grupo Calzado Norte 89,Distribuidor,España,Distributor,Large,Retail Partners,grupo.calzado.norte.89@urbanstep-demo.com,+34 648 428 119,2022-01-18,163973
+C0496,Iberia Shoe Logistics 46,Distribuidor,España,Distributor,Large,Retail Partners,iberia.shoe.logistics.46@urbanstep-demo.com,+34 659 192 254,2021-08-07,37150
+C0497,Distribuciones Levante Shoes 73,Distribuidor,España,Distributor,Strategic,Retail Partners,distribuciones.levante.shoes.73@urbanstep-demo.com,+34 684 182 963,2022-01-09,43319
+C0498,Italian Fashion Distribution,Distribuidor,Italia,Distributor,Large,Retail Partners,italian.fashion.distribution@urbanstep-demo.com,+39 697 948 112,2021-12-08,100556
+C0499,Euro Mode France 41,Distribuidor,Francia,Distributor,Strategic,Retail Partners,euro.mode.france.41@urbanstep-demo.com,+33 788 889 196,2025-11-07,155805
+C0500,Distribution Chaussures Ouest 51,Distribuidor,Francia,Distributor,Medium,Retail Partners,distribution.chaussures.ouest.51@urbanstep-demo.com,+33 733 225 359,2024-11-10,179069
