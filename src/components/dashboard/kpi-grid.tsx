@@ -23,7 +23,7 @@ const trendStyles = {
 
 export function KpiGrid({ items }: KpiGridProps) {
   return (
-    <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-5">
+    <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
       {items.map((item) => {
         const trend = trendStyles[item.trend];
         const TrendIcon = trend.icon;
@@ -52,3 +52,6 @@ export function KpiGrid({ items }: KpiGridProps) {
     </div>
   );
 }
+
+
+

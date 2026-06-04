@@ -23,7 +23,7 @@ export function AppShell({ children }: AppShellProps) {
             </div>
             <div className="hidden items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm text-slate-600 shadow-sm md:flex">
               <Sparkles className="h-4 w-4 text-sky-500" />
-              Demo foundation · BI + AI ready
+              Webinar demo · CSV driven
             </div>
           </div>
         </header>
@@ -32,3 +32,6 @@ export function AppShell({ children }: AppShellProps) {
     </div>
   );
 }
+
+
+

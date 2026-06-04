@@ -2,7 +2,7 @@ import { calculateAverageMargin, calculateGrossMarginRevenue } from "@/analytics
 import { ForecastService } from "@/forecasting/forecast.service";
 import { formatCompactNumber, formatCurrency } from "@/lib/utils";
 import type { DashboardRepository } from "@/repositories/dashboard.repository";
-import { MockDashboardRepository } from "@/repositories/mock-dashboard.repository";
+import { CsvDashboardRepository } from "@/repositories/csv-dashboard.repository";
 import type {
   CommercialDashboardDto,
   ExecutiveDashboardDto,
@@ -21,16 +21,20 @@ export class DashboardService {
     const totalRevenue = snapshot.monthlyRevenue.reduce((sum, item) => sum + item.revenue, 0);
     const totalUnits = snapshot.monthlyRevenue.reduce((sum, item) => sum + item.units, 0);
     const grossMarginRevenue = calculateGrossMarginRevenue(snapshot.monthlyRevenue);
-    const yoyGrowth = ((totalRevenue - snapshot.previousYearRevenue) / snapshot.previousYearRevenue) * 100;
+    const yoyGrowth = snapshot.previousYearRevenue > 0
+      ? ((totalRevenue - snapshot.previousYearRevenue) / snapshot.previousYearRevenue) * 100
+      : 0;
     const annualForecast = this.forecastService.projectAnnualRevenue(snapshot.monthlyRevenue);
+    const targetCoverage = snapshot.annualRevenueTarget > 0
+      ? Math.round((annualForecast / snapshot.annualRevenueTarget) * 100)
+      : 0;
 
     return {
       metrics: [
-        this.createMetric("revenue", "Facturación Total", formatCurrency(totalRevenue), `+${yoyGrowth.toFixed(1)}%`, "Crecimiento acumulado frente a 2025.", "up"),
-        this.createMetric("margin", "Margen Bruto", formatCurrency(grossMarginRevenue), `${calculateAverageMargin(snapshot.monthlyRevenue).toFixed(1)}%`, "Margen medio ponderado del ejercicio.", "up"),
-        this.createMetric("growth", "Crecimiento YoY", `${yoyGrowth.toFixed(1)}%`, "+6 p.p.", "Aceleración interanual del negocio.", "up"),
-        this.createMetric("forecast", "Forecast Anual", formatCurrency(annualForecast), `${Math.round((annualForecast / snapshot.annualRevenueTarget) * 100)}% objetivo`, "Proyección simple sobre ritmo actual.", annualForecast >= snapshot.annualRevenueTarget ? "up" : "stable"),
-        this.createMetric("units", "Unidades Vendidas", formatCompactNumber(totalUnits), "+4.8%", "Volumen consolidado en todos los canales.", "up"),
+        this.createMetric("revenue", "Revenue", formatCurrency(totalRevenue), `${targetCoverage}% objetivo anual`, "Ingresos acumulados desde los CSV de ventas 2026.", "up"),
+        this.createMetric("margin", "Gross Margin", formatCurrency(grossMarginRevenue), `${calculateAverageMargin(snapshot.monthlyRevenue).toFixed(1)}%`, "Margen bruto acumulado del periodo actual.", "up"),
+        this.createMetric("units", "Units Sold", formatCompactNumber(totalUnits), `${snapshot.monthlyRevenue.length} meses`, "Volumen vendido en todos los países y canales.", "stable"),
+        this.createMetric("growth", "YoY Growth", `${yoyGrowth.toFixed(1)}%`, "vs mismo periodo 2025", "Comparativa interanual comparable con los datos disponibles.", yoyGrowth >= 0 ? "up" : "down"),
       ],
       monthlySales: snapshot.monthlyRevenue.map(({ name, revenue, units }) => ({ name, revenue, units })),
       salesByCountry: snapshot.salesByCountry,
@@ -99,5 +103,5 @@ export class DashboardService {
 }
 
 export function createDashboardService() {
-  return new DashboardService(new MockDashboardRepository());
+  return new DashboardService(new CsvDashboardRepository());
 }

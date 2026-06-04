@@ -5,6 +5,13 @@ import { Cell, Pie, PieChart, ResponsiveContainer, Tooltip } from "recharts";
 import { SectionCard } from "@/components/dashboard/section-card";
 
 const COLORS = ["#0f172a", "#0ea5e9", "#22c55e", "#f59e0b", "#7c3aed"];
+const LEGEND_DOT_CLASSES = [
+  "bg-slate-900",
+  "bg-sky-500",
+  "bg-green-500",
+  "bg-amber-500",
+  "bg-violet-600",
+];
 
 type ChartPoint = Record<string, number | string | undefined>;
 
@@ -52,16 +59,13 @@ export function DonutChartCard({
               </PieChart>
             </ResponsiveContainer>
           ) : (
-            <div className="h-full animate-pulse rounded-2xl bg-slate-100" />
+            <div className="h-full animate-pulse rounded-lg bg-slate-100" />
           )}
         </div>
         <div className="space-y-4">
           {data.map((entry, index) => (
             <div key={`${entry[nameKey]}-${index}`} className="flex items-center gap-3 text-sm">
-              <span
-                className="h-3 w-3 rounded-full"
-                style={{ backgroundColor: COLORS[index % COLORS.length] }}
-              />
+              <span className={`h-3 w-3 rounded-full ${LEGEND_DOT_CLASSES[index % LEGEND_DOT_CLASSES.length]}`} />
               <div>
                 <p className="font-medium text-slate-700">{String(entry[nameKey])}</p>
                 <p className="text-slate-500">{Number(entry[dataKey]).toLocaleString("es-ES")}</p>

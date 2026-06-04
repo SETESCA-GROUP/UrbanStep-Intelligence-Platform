@@ -2,22 +2,11 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import {
-  Bot,
-  ChartColumnBig,
-  ChartNoAxesCombined,
-  Coins,
-  LayoutDashboard,
-  LineChart,
-} from "lucide-react";
+import { ChartNoAxesCombined, LayoutDashboard } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navigation = [
-  { href: "/", label: "Dashboard Ejecutivo", icon: LayoutDashboard },
-  { href: "/commercial", label: "Dashboard Comercial", icon: ChartColumnBig },
-  { href: "/financial", label: "Dashboard Financiero", icon: Coins },
-  { href: "/forecast", label: "Forecast", icon: LineChart },
-  { href: "/ai-assistant", label: "AI Assistant", icon: Bot },
+  { href: "/", label: "Executive Dashboard", icon: LayoutDashboard },
 ];
 
 export function AppSidebar() {
@@ -26,12 +15,12 @@ export function AppSidebar() {
   return (
     <aside className="border-r border-slate-200/80 bg-slate-950 px-5 py-8 text-slate-100 lg:sticky lg:top-0 lg:h-screen">
       <div className="flex items-center gap-3 px-2">
-        <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-sky-500/15 text-sky-300">
+        <div className="flex h-11 w-11 items-center justify-center rounded-lg bg-sky-500/15 text-sky-300">
           <ChartNoAxesCombined className="h-5 w-5" />
         </div>
         <div>
           <p className="text-sm font-medium text-slate-300">UrbanStep</p>
-          <p className="text-xl font-semibold tracking-tight">BI Hub</p>
+          <p className="text-xl font-semibold tracking-tight">CEO Dashboard</p>
         </div>
       </div>
 
@@ -45,7 +34,7 @@ export function AppSidebar() {
               key={item.href}
               href={item.href}
               className={cn(
-                "flex items-center gap-3 rounded-2xl px-4 py-3 text-sm font-medium transition",
+                "flex items-center gap-3 rounded-lg px-4 py-3 text-sm font-medium transition",
                 isActive
                   ? "bg-slate-100 text-slate-950 shadow-lg"
                   : "text-slate-300 hover:bg-slate-900 hover:text-white"
@@ -58,8 +47,8 @@ export function AppSidebar() {
         })}
       </nav>
 
-      <div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-5 text-sm text-slate-300">
-        <p className="font-semibold text-white">Datasets previstos</p>
+      <div className="mt-10 rounded-lg border border-white/10 bg-white/5 p-5 text-sm text-slate-300">
+        <p className="font-semibold text-white">CSV activos</p>
         <ul className="mt-3 space-y-2 text-xs leading-5 text-slate-400">
           <li>Ventas2025.csv</li>
           <li>Ventas2026.csv</li>
